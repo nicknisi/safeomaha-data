@@ -1,0 +1,3406 @@
+Class,DescriptionOfClass,BusinessName,Location 2
+A     ,Beer on sale,BERNIE'S PIZZA PARLOR               ,"5092 SO 136TH ST
+OMAHA, NE
+(41.20550407920473, -96.12171547859421)"
+A     ,Beer on sale,CHICAGO DAWG HOUSE                  ,"3113 108TH STREET
+OMAHA, NE
+(41.23041328010641, -96.08145399103994)"
+A     ,Beer on sale,ELMWOOD GOLF COURSE                 ,"6232 PACIFIC STREET
+OMAHA, NE
+(41.24875638792781, -96.00775922552293)"
+A     ,Beer on sale,GODFATHER'S PIZZA                   ,"2851 168 STREET
+OMAHA, NE
+(41.23218172742816, -96.17675886776945)"
+A     ,Beer on sale,GODFATHER'S PIZZA #28025            ,"5010 GROVER STREET
+OMAHA, NE
+(41.227016829708006, -95.99064980519812)"
+A     ,Beer on sale,GODFATHER'S PIZZA #28033            ,"3141 108TH ST
+OMAHA, NE
+(41.23025363352502, -96.0814552339606)"
+A     ,Beer on sale,KING FONG CAFE                      ,"315 1 2 S 16 STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+A     ,Beer on sale,MILT'S GOLF CENTER                  ,"6402 Q STREET
+OMAHA, NE
+(41.20524718815028, -96.01234576787232)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"2429 132 STREET
+OMAHA, NE
+(41.23634489276443, -96.11944241548491)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"2579 171 COURT
+OMAHA, NE
+(41.23518444307713, -96.1836179331093)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"1040 74 PLAZA
+OMAHA, NE
+(41.24928392790304, -96.02789806326493)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"4303 72 STREET
+OMAHA, NE
+(41.21647689934639, -96.02373924318967)"
+A     ,Beer on sale,PEPPERJAX GRILL                     ,"1221 HOWARD STREET
+OMAHA, NE
+(41.25539252104522, -95.93216466228597)"
+A     ,Beer on sale,ROMONA'S                            ,"6502 NO 30TH ST
+OMAHA, NE
+(41.31779734011718, -95.95655182917454)"
+A     ,Beer on sale,SPRING LAKE GOLF COURSE             ,"4020 HOCTOR BLVD
+OMAHA, NE
+(41.222011584520025, -95.93979668311796)"
+A     ,Beer on sale,SKATEDAZE.COM                       ,"3616 132 STREET
+OMAHA, NE
+(41.224707820647716, -96.11999433557175)"
+A     ,Beer on sale,TAQUERIA VALADEZ                    ,"6621 RAILROAD AVE
+OMAHA, NE
+(41.19298043567062, -95.93884417841764)"
+A     ,Beer on sale,TAQUERIA LA ESMERALDA               ,"3215 Q STREET
+OMAHA, NE
+(41.20547201865759, -95.9617499105039)"
+B     ,Beer off sale,ANDERSON BROTHERS AMOCO             ,"14403 FRONTIER RD
+OMAHA, NE
+(41.159147940928335, -96.14027432654024)"
+B     ,Beer off sale,ANDERSON AMOCO FOOD SHOP & SERVICE  ,"13746 Q STREET
+OMAHA, NE
+(41.20521121526912, -96.12834931643175)"
+B     ,Beer off sale,BUCK'S                              ,"4420 L ST
+OMAHA, NE
+(41.2125676694688, -95.98084251718598)"
+B     ,Beer off sale,BUCKY'S EXPRESS 24                  ,"2223 24 STREET
+OMAHA, NE
+(41.23888867548219, -95.94695248460337)"
+B     ,Beer off sale,BIG KMART 4130                      ,"5000 L STREET
+OMAHA, NE
+(41.21252270336731, -95.99164337475787)"
+B     ,Beer off sale,BIG RED MINI MART #2744             ,"13525 MILLARD AVE
+OMAHA, NE
+(41.20906031355452, -96.12520168932917)"
+B     ,Beer off sale,CASS GAS N SHOP                     ,"503 33RD ST
+OMAHA, NE
+(41.26350390223887, -95.96146113987129)"
+B     ,Beer off sale,CASEY'S GENERAL STORE 2886          ,"1202 13 STREET
+OMAHA, NE
+(41.27021136642092, -95.93316145815946)"
+B     ,Beer off sale,CIG & SNACK OUTLET                  ,"6818 SO 13TH ST
+OMAHA, NE
+(41.1912087712729, -95.93351119878389)"
+B     ,Beer off sale,CUMING FOOD MART                    ,"4002 CUMING STREET
+OMAHA, NE
+(41.267947920033066, -95.97351304264714)"
+B     ,Beer off sale,EDDY'S                              ,"9645 IDA ST
+OMAHA, NE
+(41.31979383502221, -96.06438054048766)"
+B     ,Beer off sale,EDDYS                               ,"15605 CENTER RD
+OMAHA, NE
+(41.23386275166382, -96.15894254656347)"
+B     ,Beer off sale,EDDY'S                              ,"11919 FORT STREET
+OMAHA, NE
+(41.30654682153062, -96.09969691657824)"
+B     ,Beer off sale,FREIDEN'S SUPERETTE                 ,"561 SO 18TH ST
+OMAHA, NE
+(41.25489574284435, -95.93978464359397)"
+B     ,Beer off sale,FRANK'S FOOD STORE                  ,"5170 Q ST
+OMAHA, NE
+(41.20527416781118, -95.9957892493129)"
+B     ,Beer off sale,GRANDPA'S C-MART                    ,"5018 UNDERWOOD
+OMAHA, NE
+(41.265135727353, -95.99073202293934)"
+B     ,Beer off sale,HOUSE OF SAUSAGE                    ,"2532 SO 24TH ST
+OMAHA, NE
+(41.23437622867931, -95.94704599532486)"
+B     ,Beer off sale,JACOBO'S GROCERY                    ,"4621 SO 24TH ST
+OMAHA, NE
+(41.212612635570224, -95.94704599532486)"
+B     ,Beer off sale,J-N-D GROCERY                       ,"6339 NO 24TH
+OMAHA, NE
+(41.31606840770622, -95.94686840470514)"
+B     ,Beer off sale,KEITH'S AMOCO #1                    ,"5220 NO 90TH ST
+OMAHA, NE
+(41.30619608593918, -96.05270734054733)"
+B     ,Beer off sale,KNJ GROCERY                         ,"3301 CALIFORNIA ST
+OMAHA, NE
+(41.264709497268825, -95.96154855230154)"
+B     ,Beer off sale,LANE'S SHELL                        ,"8724 30TH ST
+OMAHA, NE
+(41.33927842113722, -95.96131599890805)"
+B     ,Beer off sale,MIDTOWN GAS & GROCERY               ,"1222 24TH STREET
+OMAHA, NE
+(41.27068744526002, -95.9471077683394)"
+B     ,Beer off sale,MIDTOWN GAS & GROCERY               ,"1349 PARK AVE
+OMAHA, NE
+(41.245437889639675, -95.95573344612791)"
+B     ,Beer off sale,OMAHA VALERO #102                   ,"2411 30TH ST
+OMAHA, NE
+(41.23642086136155, -95.95659999526623)"
+B     ,Beer off sale,PITSTOP INC                         ,"4015 42ND STREET
+OMAHA, NE
+(41.220477436742634, -95.97577987453715)"
+B     ,Beer off sale,PETROMART                           ,"6508 JOHN
+J PERSHING OMAHA, NE
+"
+B     ,Beer off sale,PHILLIPS 66                         ,"7530 PACIFIC STREET
+OMAHA, NE
+(41.24881034724956, -96.0310516660818)"
+B     ,Beer off sale,PAUL'S MILLARD SINCLAIR             ,"13205 MILLARD AVE
+OMAHA, NE
+(41.21183022540475, -96.12092091646974)"
+B     ,Beer off sale,SPEEDEE MART #2730                  ,"4334 84 STREET
+OMAHA, NE
+(41.21715155055231, -96.04318445584255)"
+B     ,Beer off sale,SPEEDEE MART #2745                  ,"2920 120TH STREET
+OMAHA, NE
+(41.23212631367314, -96.10081234345823)"
+B     ,Beer off sale,S & S SERVICE                       ,"5920 SORENSON PKWY
+OMAHA, NE
+(41.317726257813604, -96.00335091047283)"
+B     ,Beer off sale,SNACK ATTACK                        ,"4854 Q ST
+OMAHA, NE
+(41.20531913391261, -95.98810903918269)"
+B     ,Beer off sale,SNACK ATTACK                        ,"4854 Q STREET
+OMAHA, NE
+(41.20531913391261, -95.98810903918269)"
+B     ,Beer off sale,99¢ STORE GROCERY & VARIETY         ,"4205 REDMAN AVENUE
+OMAHA, NE
+(41.309963593472105, -95.97766984552352)"
+C     ,Beer/liquor on/off sale,ABSOLUTELY FRESH SEAFOOD COMPANY    ,"1218 119 STREET
+OMAHA, NE
+(41.247586046784804, -96.0988398982472)"
+C     ,Beer/liquor on/off sale,AUSSIE'S PUB                        ,"2326 NO 72ND ST
+OMAHA, NE
+(41.27985606430407, -96.02396739431924)"
+C     ,Beer/liquor on/off sale,A J'S SPORTS BAR                    ,"5305 SO 96TH ST
+OMAHA, NE
+(41.20589020138173, -96.0619408022764)"
+C     ,Beer/liquor on/off sale,ATTIC BAR & GRILL                   ,"3231 HARNEY STREET
+OMAHA, NE
+(41.25662418119809, -95.95999714946504)"
+C     ,Beer/liquor on/off sale,ADDY'S SPORTS GRILL & BAR           ,"13806 P STREET
+OMAHA, NE
+(41.20665013051598, -96.13048070964118)"
+C     ,Beer/liquor on/off sale,ALPINE INN                          ,"10405 CALHOUN RD
+OMAHA, NE
+(41.35357237044275, -95.97382780535742)"
+C     ,Beer/liquor on/off sale,ALDERMAN'S BAR                      ,"3216 LEAVENWORTH
+OMAHA, NE
+(41.252444471706724, -95.96047557669276)"
+C     ,Beer/liquor on/off sale,ANCHOR INN                          ,"2499 FREEDOM PARK RD
+OMAHA, NE
+(41.27791240811774, -95.8988243481138)"
+C     ,Beer/liquor on/off sale,ANDY'S PLACE                        ,"3701 F STREET
+OMAHA, NE
+(41.2197442592626, -95.96894448673834)"
+C     ,Beer/liquor on/off sale,ANTHONY'S RESTAURANT & LOUNGE       ,"7220 F ST
+OMAHA, NE
+(41.219726272822015, -96.0251161406884)"
+C     ,Beer/liquor on/off sale,AMERICAN LEGION 1                   ,"7811 DAVENPORT ST
+OMAHA, NE
+(41.26114005227129, -96.03701417113604)"
+C     ,Beer/liquor on/off sale,AMERICAN LEGION 331                 ,"4830 21 STREET
+OMAHA, NE
+(41.210186820855085, -95.94308990626196)"
+C     ,Beer/liquor on/off sale,AMERICAN LEGION 374                 ,"14326 46 U STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,ARTHURS 4 SEASONS                   ,"222 226 N 114TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,ARENA SPORTS BAR & GRILL            ,"3809 90 STREET
+OMAHA, NE
+(41.293646844632526, -96.05266316328475)"
+C     ,Beer/liquor on/off sale,BUFFALO WILD WINGS GRILL & BAR      ,"4287 144 STREET
+OMAHA, NE
+(41.29517521553574, -96.13877187904014)"
+C     ,Beer/liquor on/off sale,BOB MONKEYS NOODLE ZOO              ,"4950 DODGE STREET
+OMAHA, NE
+(41.2596921438041, -95.98935909680341)"
+C     ,Beer/liquor on/off sale,BISHOP'S BAR & GRILL                ,"1901 HARNEY STREET
+OMAHA, NE
+(41.25650768036161, -95.94092440020361)"
+C     ,Beer/liquor on/off sale,BIG FRED'S PIZZA                    ,"1101 21 S 119 STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,BUCKY DEXTER'S                      ,"4213 15 SO 84TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,BAJA GRILL                          ,"2523 140 AVENUE
+OMAHA, NE
+(41.23449026971096, -96.13542042463051)"
+C     ,Beer/liquor on/off sale,BAGDAD LOUNGE                       ,"2823 84 STREET
+OMAHA, NE
+(41.23310530593466, -96.0430316476869)"
+C     ,Beer/liquor on/off sale,BAG N SAVE                          ,"2650 90TH STREET
+OMAHA, NE
+(41.234734867997005, -96.05268210153709)"
+C     ,Beer/liquor on/off sale,BISTRO 121                          ,"12129 CENTER RD
+OMAHA, NE
+(41.23392960536295, -96.10230559429178)"
+C     ,Beer/liquor on/off sale,BIG TEN SPORTS BAR                  ,"8414 18 Q STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,BAG 'N SAVE                         ,"7646 DODGE ST
+OMAHA, NE
+(41.2596921438041, -96.03279635081861)"
+C     ,Beer/liquor on/off sale,BAG 'N SAVE                         ,"14444 CENTER RD
+OMAHA, NE
+(41.233956912322675, -96.1396835816249)"
+C     ,Beer/liquor on/off sale,BAG N SAVE                          ,"15370 WEIR STREET
+OMAHA, NE
+(41.20626342204338, -96.15546387561511)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 315             ,"13250 MAPLE RD
+OMAHA, NE
+(41.29231141726564, -96.12054545840586)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 312             ,"5222 136 STREET
+OMAHA, NE
+(41.204325465498975, -96.12561929357639)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 311             ,"5555 90 STREET
+OMAHA, NE
+(41.20213730679139, -96.05231312751728)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 301             ,"4405 72 STREET
+OMAHA, NE
+(41.21599293752148, -96.02373924318967)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 302             ,"12025 CENTER RD
+OMAHA, NE
+(41.23392665510366, -96.10106058486616)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 316             ,"7312 30 STREET
+OMAHA, NE
+(41.32651915990344, -95.95773457173222)"
+C     ,Beer/liquor on/off sale,BIG RED KENO BAR & GRILL            ,"8100 CASS STREET
+OMAHA, NE
+(41.26336137768362, -96.03935240841224)"
+C     ,Beer/liquor on/off sale,BELLA VITA RISTORANTE               ,"2620 MAIN STREET
+OMAHA, NE
+(41.282576353812296, -96.23714440205255)"
+C     ,Beer/liquor on/off sale,BILLY FROGG'S GRILL & BAR WEST      ,"8724 DODGE ROAD
+OMAHA, NE
+(41.263445116176015, -96.0487994227688)"
+C     ,Beer/liquor on/off sale,BILL'S BAR BE QUE                   ,"4414 NO 24TH
+OMAHA, NE
+(41.298812950335645, -95.94704257467582)"
+C     ,Beer/liquor on/off sale,BLUE SUSHI SAKE GRILL               ,"416 12TH STREET
+OMAHA, NE
+(41.262845933008286, -95.93191182924907)"
+C     ,Beer/liquor on/off sale,BILLY FROGG'S                       ,"1120 HOWARD STREET
+OMAHA, NE
+(41.255502166606334, -95.9308257167752)"
+C     ,Beer/liquor on/off sale,BONES                               ,"1012 10TH STREET
+OMAHA, NE
+(41.24986623374765, -95.92939457841177)"
+C     ,Beer/liquor on/off sale,BOONDOCKERS                         ,"5222 120 ST
+OMAHA, NE
+(41.205007622457124, -96.10071516822494)"
+C     ,Beer/liquor on/off sale,BOHEMIAN CAFE                       ,"1406 1410 SO 13TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,BAR FLY                             ,"707 114TH ST
+OMAHA, NE
+(41.26649420816718, -96.09095152281297)"
+C     ,Beer/liquor on/off sale,BARRY O'S                           ,"420 SO 10TH ST
+OMAHA, NE
+(41.25628012885517, -95.92933033043016)"
+C     ,Beer/liquor on/off sale,BROOK PARK LOUNGE                   ,"3015 90 STREET
+OMAHA, NE
+(41.286293421835474, -96.05231836089972)"
+C     ,Beer/liquor on/off sale,BURKE'S OF BALLYSHANNON             ,"6117 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.00793908992875)"
+C     ,Beer/liquor on/off sale,BREWSKY'S FOOD & SPIRITS            ,"8528 PARK DRIVE
+OMAHA, NE
+(41.20138799662341, -96.04422103738304)"
+C     ,Beer/liquor on/off sale,BREWSKY'S PARK DRIVE BOTTLE SHOP    ,"8524 PARK DRIVE
+OMAHA, NE
+(41.20135499192325, -96.04416946753902)"
+C     ,Beer/liquor on/off sale,BRASS KNOCKER LOUNGE                ,"3012 102 STREET
+OMAHA, NE
+(41.23147688485924, -96.07254599259329)"
+C     ,Beer/liquor on/off sale,BEER CITY                           ,"4147 L STREET
+OMAHA, NE
+(41.212621628790544, -95.975932218906)"
+C     ,Beer/liquor on/off sale,BROOKHILL COUNTRY CLUB              ,"1900 COLE CREEK DR
+OMAHA, NE
+(41.27636557422733, -96.03562921521092)"
+C     ,Beer/liquor on/off sale,BRIX WINE & SPIRITS EMPORIUM        ,"255 NO 170TH ST
+OMAHA, NE
+(41.26019217778028, -96.18114974745188)"
+C     ,Beer/liquor on/off sale,"BRASS MONKEY SPORTS BAR, THE        ","5611 SO 36TH STREET
+OMAHA, NE
+(41.201240411191876, -95.96729780950834)"
+C     ,Beer/liquor on/off sale,BROKEN RAIL INN                     ,"4910 NO 16TH ST
+OMAHA, NE
+(41.303731943578896, -95.93734231062871)"
+C     ,Beer/liquor on/off sale,BARRETT'S BARLEYCORN                ,"4322 LEAVENWORTH ST
+OMAHA, NE
+(41.25239864214649, -95.97804562567484)"
+C     ,Beer/liquor on/off sale,BROADMOOR MARKET                    ,"8722 PACIFIC ST
+OMAHA, NE
+(41.24885617680985, -96.04792710671582)"
+C     ,Beer/liquor on/off sale,BROTHER SEBASTIAN'S STEAK HOUSE     ,"1350 SO 119TH ST
+OMAHA, NE
+(41.245973154758794, -96.09861115540802)"
+C     ,Beer/liquor on/off sale,"BROTHERS LOUNGE, THE                ","3812 FARNAM STREET
+OMAHA, NE
+(41.25774960822082, -95.96957401215883)"
+C     ,Beer/liquor on/off sale,BARLEY STREET TAVERN                ,"2735 62ND ST
+OMAHA, NE
+(41.28383516865492, -96.00831579469022)"
+C     ,Beer/liquor on/off sale,BARNEY'S 308                        ,"308 24 STREET
+OMAHA, NE
+(41.261733531981726, -95.94700102555588)"
+C     ,Beer/liquor on/off sale,BEER AND LOATHING IN DUNDEE         ,"4949 UNDERWOOD AVE
+OMAHA, NE
+(41.2650790827596, -95.99006956120655)"
+C     ,Beer/liquor on/off sale,BROWN DERBY LOUNGE                  ,"4036 SO 24TH ST
+OMAHA, NE
+(41.21986117112641, -95.94702800888427)"
+C     ,Beer/liquor on/off sale,CUBBY'S                             ,"601 SO 13TH ST
+OMAHA, NE
+(41.25437148488217, -95.9332044525808)"
+C     ,Beer/liquor on/off sale,CAPPY'S FOOD AND SPIRITS            ,"5059 108TH ST
+OMAHA, NE
+(41.2066179222865, -96.0813488222062)"
+C     ,Beer/liquor on/off sale,CHOP'S BOWLING                      ,"2518 SO 13TH ST
+OMAHA, NE
+(41.2355273608768, -95.93333133437807)"
+C     ,Beer/liquor on/off sale,"CABIN, THE                          ","9226 MORMON BRIDGE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,AMERICAN DREAM                      ,"2607 120 STREET
+OMAHA, NE
+(41.23529194541339, -96.10029502017161)"
+C     ,Beer/liquor on/off sale,CASCIO'S STEAKHOUSE                 ,"1620 10 STREET
+OMAHA, NE
+(41.24326933049374, -95.92944376048196)"
+C     ,Beer/liquor on/off sale,"CADDY SHACK, THE                    ","2076 117 AVENUE
+OMAHA, NE
+(41.27838087632386, -96.09830364943933)"
+C     ,Beer/liquor on/off sale,CLUBHOUSE LOUNGE                    ,"3936 90TH STREET
+OMAHA, NE
+(41.294970720175876, -96.05277832495149)"
+C     ,Beer/liquor on/off sale,CLUB TURF                           ,"2404 60TH STREET
+OMAHA, NE
+(41.2805308224406, -96.00488178523906)"
+C     ,Beer/liquor on/off sale,CALIFORNIA BAR                      ,"510 12 N 33 STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,CLANCY'S PUB                        ,"2905 168 STREET
+OMAHA, NE
+(41.23160564639217, -96.17676875774396)"
+C     ,Beer/liquor on/off sale,CHINA PALACE                        ,"661 46TH STREET
+OMAHA, NE
+(41.2654258585932, -95.98293781702142)"
+C     ,Beer/liquor on/off sale,CONVENIENT WORLD                    ,"2302 20TH STREET
+OMAHA, NE
+(41.238148474880745, -95.94229853393091)"
+C     ,Beer/liquor on/off sale,CILANTROS MEXICAN BAR & GRILL       ,"14440 F STREET
+OMAHA, NE
+(41.21959137451762, -96.13954587569651)"
+C     ,Beer/liquor on/off sale,CANIGLIA'S VENICE INN               ,"6920 PACIFIC ST
+OMAHA, NE
+(41.24874739470749, -96.02118610342035)"
+C     ,Beer/liquor on/off sale,COHEN & KELLY'S LOUNGE              ,"13075 CENTER RD
+OMAHA, NE
+(41.2339886567479, -96.11839415026924)"
+C     ,Beer/liquor on/off sale,CANDLELIGHT LOUNGE                  ,"5031 GROVER ST
+OMAHA, NE
+(41.22691488236452, -95.9913129787994)"
+C     ,Beer/liquor on/off sale,CARIBBEAN DELIGHTS INC.             ,"2304 72ND ST
+OMAHA, NE
+(41.279665388043924, -96.02396645502732)"
+C     ,Beer/liquor on/off sale,CRESCENT MOON ALE HOUSE             ,"3578 FARNAM STREET
+OMAHA, NE
+(41.25774960822082, -95.96631846641276)"
+C     ,Beer/liquor on/off sale,CARLISLE HOTEL OMAHA                ,"10909 M STREET
+OMAHA, NE
+(41.211929150827984, -96.08418361157283)"
+C     ,Beer/liquor on/off sale,CHROME                              ,"8548 52 PARK DR
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,SHERATON OMAHA HOTEL                ,"655 108 AVENUE
+OMAHA, NE
+(41.266466375219686, -96.08281707304594)"
+C     ,Beer/liquor on/off sale,CORNER POCKET                       ,"4201 38 STREET
+OMAHA, NE
+(41.218478825029685, -95.9698760117943)"
+C     ,Beer/liquor on/off sale,DAVE'S PUB                          ,"8803 8805 MAPLE ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,DOUBLETREE HOTEL OMAHA DOWNTOWN     ,"1616 DODGE STREET
+OMAHA, NE
+(41.25965617092294, -95.93745922249252)"
+C     ,Beer/liquor on/off sale,D'S FRONTIER                        ,"8516 NO 30TH ST
+OMAHA, NE
+(41.33779826204881, -95.96082360881377)"
+C     ,Beer/liquor on/off sale,DOC'S BAR & GRILL                   ,"4303 89 STREET
+OMAHA, NE
+(41.21738943214101, -96.04890985230051)"
+C     ,Beer/liquor on/off sale,DO-HICKEY'S BAR & GRILL             ,"4936 40 SO 135TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,"DIGZ, THE                           ","4428 140 STREET
+OMAHA, NE
+(41.21517326631849, -96.13374503989095)"
+C     ,Beer/liquor on/off sale,DC'S SALOON                         ,"610 14 STREET
+OMAHA, NE
+(41.26487643051856, -95.93447897105253)"
+C     ,Beer/liquor on/off sale,DOUGER'S                            ,"4401 CUMING STREET
+OMAHA, NE
+(41.26788410403225, -95.97871166356974)"
+C     ,Beer/liquor on/off sale,DONOHUE'S                           ,"3232 L STREET
+OMAHA, NE
+(41.21226189997884, -95.96228051050122)"
+C     ,Beer/liquor on/off sale,DANNY'S BAR & GRILL                 ,"2007 72 STREET
+OMAHA, NE
+(41.240200594428174, -96.02390917505218)"
+C     ,Beer/liquor on/off sale,DINKERS BAR                         ,"2368 29 STREET
+OMAHA, NE
+(41.23706983305537, -95.95445736670875)"
+C     ,Beer/liquor on/off sale,DUNDEE CORK & BOTTLE                ,"614 616 NO 50TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,DUNDEE DELL                         ,"5007 UNDERWOOD
+OMAHA, NE
+(41.2650250480355, -95.9904584436492)"
+C     ,Beer/liquor on/off sale,DOWNTOWN BLUES COMPANY              ,"1512 HOWARD STREET
+OMAHA, NE
+(41.25549230992726, -95.93639802249794)"
+C     ,Beer/liquor on/off sale,DUNN DEAL CAFE                      ,"2310 16TH ST
+OMAHA, NE
+(41.23805495071812, -95.93741294602418)"
+C     ,Beer/liquor on/off sale,DOWNUNDER BAR                       ,"3804 LEAVENWORTH
+OMAHA, NE
+(41.25243547848646, -95.96919150055507)"
+C     ,Beer/liquor on/off sale,DARBY'S TAVERN                      ,"6503 SUNSHINE DR
+OMAHA, NE
+(41.19435723432904, -95.976092009973)"
+C     ,Beer/liquor on/off sale,DRIFT INN                           ,"4332 SO 33RD ST
+OMAHA, NE
+(41.21688883657389, -95.96259620846129)"
+C     ,Beer/liquor on/off sale,DROVER                              ,"2121 SO 73RD ST
+OMAHA, NE
+(41.239079682892566, -96.02621331356414)"
+C     ,Beer/liquor on/off sale,DARIO'S BRASSERIE                   ,"4920 UNDERWOOD AVE
+OMAHA, NE
+(41.2650790827596, -95.98970983239485)"
+C     ,Beer/liquor on/off sale,E'Z PLACE                           ,"15761 DODGE ROAD
+OMAHA, NE
+(41.26257834265785, -96.16074297021817)"
+C     ,Beer/liquor on/off sale,EXTREME PIZZA                       ,"741 114TH STREET
+OMAHA, NE
+(41.267158126667965, -96.09133297027014)"
+C     ,Beer/liquor on/off sale,EAGLES FRAT AERIE 38                ,"201 24 STREET
+OMAHA, NE
+(41.26072628802091, -95.94679320078725)"
+C     ,Beer/liquor on/off sale,EAGLES FRAT ORDER 154               ,"6607 SUNSHINE DRIVE
+OMAHA, NE
+(41.192872517027126, -95.97806361211542)"
+C     ,Beer/liquor on/off sale,EAGLE RUN GOLF COURSE               ,"3435 NO 132ND ST
+OMAHA, NE
+(41.290257794155096, -96.11959762660958)"
+C     ,Beer/liquor on/off sale,EAT THE WORM                        ,"1213 HOWARD STREET
+OMAHA, NE
+(41.25539252104522, -95.93205493760676)"
+C     ,Beer/liquor on/off sale,ELBOW ROOM                          ,"4973 CENTER STREET
+OMAHA, NE
+(41.241497995692555, -95.9894902154568)"
+C     ,Beer/liquor on/off sale,ELKS                                ,"2420 LAKE STREET
+OMAHA, NE
+(41.2815186894552, -95.94808021565854)"
+C     ,Beer/liquor on/off sale,ELKS BPO OMAHA LODGE 39             ,"6410 96 STREET
+OMAHA, NE
+(41.192469858331144, -96.06210746173235)"
+C     ,Beer/liquor on/off sale,EL CATRIN                           ,"6500 RAILROAD AVENUE
+OMAHA, NE
+(41.19378083227673, -95.93965356824401)"
+C     ,Beer/liquor on/off sale,ELITE LOUNGE & GRILLE               ,"11009 ELM STREET
+OMAHA, NE
+(41.23259610315654, -96.08381050141702)"
+C     ,Beer/liquor on/off sale,ELITE LOUNGE & GRILLE               ,"11009 ELM ST
+OMAHA, NE
+(41.23259610315654, -96.08381050141702)"
+C     ,Beer/liquor on/off sale,EL MUNDO DE MEXICO                  ,"2415 M STREET
+OMAHA, NE
+(41.210995954319515, -95.94731187716876)"
+C     ,Beer/liquor on/off sale,ELEMENT OMAHA AT MIDTOWN CROSSINGS  ,"3253 DODGE ST
+OMAHA, NE
+(41.25971350701691, -95.9609855781375)"
+C     ,Beer/liquor on/off sale,EL RANCHO RESTAURANT                ,"2030 MARTHA STREET
+OMAHA, NE
+(41.23824331340529, -95.94384440890053)"
+C     ,Beer/liquor on/off sale,FUZZY'S NEW                         ,"4024 24 STREET
+OMAHA, NE
+(41.22060214828676, -95.94710089394508)"
+C     ,Beer/liquor on/off sale,FETA'S GYROS & CATERING             ,"743 114TH STREET
+OMAHA, NE
+(41.26718216707018, -96.09138480738743)"
+C     ,Beer/liquor on/off sale,FETA'S GYROS & CATERING             ,"14544 CENTER RD
+OMAHA, NE
+(41.233980237706014, -96.14161477276294)"
+C     ,Beer/liquor on/off sale,FOURSOMES GRILL GOLF SPIRITS        ,"3510 167TH CIR
+OMAHA, NE
+(41.290477879269616, -96.17626421753513)"
+C     ,Beer/liquor on/off sale,FAREWAY STORES 43                   ,"17070 AUDREY STREET
+OMAHA, NE
+(41.18941912043459, -96.18077079751964)"
+C     ,Beer/liquor on/off sale,FUDDRUCKERS                         ,"7059 DODGE STREET
+OMAHA, NE
+(41.25960221160119, -96.02347937459507)"
+C     ,Beer/liquor on/off sale,FEDORA LOUNGE                       ,"711 713 N 114TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,FULL HOUSE                          ,"6135 MILITARY AVENUE
+OMAHA, NE
+(41.28615919112639, -96.00894633060159)"
+C     ,Beer/liquor on/off sale,FLIXX                               ,"1019 10 STREET
+OMAHA, NE
+(41.24983021961172, -95.92924912151165)"
+C     ,Beer/liquor on/off sale,FIELD CLUB OF OMAHA                 ,"3615 WOOLWORTH AVE
+OMAHA, NE
+(41.24515851875751, -95.96665091090787)"
+C     ,Beer/liquor on/off sale,FIELD CLUB OF OMAHA                 ,"3615 WOOLWORTH AVE
+OMAHA, NE
+(41.24515851875751, -95.96665091090787)"
+C     ,Beer/liquor on/off sale,FLATIRON CAFE                       ,"1722 ST MARY'S AVE
+OMAHA, NE
+(41.25531244552138, -95.93888914451912)"
+C     ,Beer/liquor on/off sale,FLEMING'S PRIME STEAKHOUSE/WINE BAR ,"140 REGENCY PARKWAY
+OMAHA, NE
+(41.25982967602598, -96.06977491359955)"
+C     ,Beer/liquor on/off sale,FAN TAN CLUB                        ,"5915 CENTER ST
+OMAHA, NE
+(41.23786559815301, -96.00382019503456)"
+C     ,Beer/liquor on/off sale,"FOUNDATION, THE                     ","1407 HARNEY STREET
+OMAHA, NE
+(41.256553509921844, -95.93501306657282)"
+C     ,Beer/liquor on/off sale,FIREFIGHTERS LOCAL 385              ,"6005 GROVER ST
+OMAHA, NE
+(41.22695682193756, -96.00555588655112)"
+C     ,Beer/liquor on/off sale,FORTY & EIGHT CLUB                  ,"3113 70 STREET
+OMAHA, NE
+(41.230494839531296, -96.02150069896435)"
+C     ,Beer/liquor on/off sale,FRENCH CAFE                         ,"1013 15-17 HOWARD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,FARMHOUSE CAFE & DELICATESSEN       ,"3461 SO 84TH ST
+OMAHA, NE
+(41.22860788870808, -96.0430389501634)"
+C     ,Beer/liquor on/off sale,"GETAWAY LOUNGE, THE                 ","4745 SO 96TH ST
+OMAHA, NE
+(41.211187842165536, -96.06210729550375)"
+C     ,Beer/liquor on/off sale,GATOR OMALLEYS PUB                  ,"12143 WEST CENTER
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,"GETAWAY LOUNGE, THE                 ","4745 96TH ST
+OMAHA, NE
+(41.211187842165536, -96.06210729550375)"
+C     ,Beer/liquor on/off sale,GOLDBERGS BAR                       ,"2936 40 SO 132ND ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,GENEAUX'S LOUNGE                    ,"5051 108TH ST
+OMAHA, NE
+(41.20754797678272, -96.08135009429802)"
+C     ,Beer/liquor on/off sale,GROVER INN                          ,"3505 42 STREET
+OMAHA, NE
+(41.22694279332342, -95.9757793987225)"
+C     ,Beer/liquor on/off sale,GREEK ISLANDS                       ,"3821 CENTER STREET
+OMAHA, NE
+(41.241525838812265, -95.96918730368623)"
+C     ,Beer/liquor on/off sale,GORAT'S STEAK HOUSE                 ,"4917 CENTER ST
+OMAHA, NE
+(41.24155281847311, -95.98864863240027)"
+C     ,Beer/liquor on/off sale,GRANITE CITY FOOD & BREWERY         ,"1001 102 STREET
+OMAHA, NE
+(41.267731298546124, -96.07140824982702)"
+C     ,Beer/liquor on/off sale,GRANT STREET BAR & GRILL            ,"8919 GRANT STREET
+OMAHA, NE
+(41.27952292430378, -96.05107166197665)"
+C     ,Beer/liquor on/off sale,GREEN ONION                         ,"11414 DAVENPORT
+OMAHA, NE
+(41.260419262660875, -96.09150194684983)"
+C     ,Beer/liquor on/off sale,GERMAN AMERICAN SOCIETY             ,"3717 SO 120TH
+OMAHA, NE
+(41.22304217579514, -96.10066956690596)"
+C     ,Beer/liquor on/off sale,HY VEE 8                            ,"747 132 STREET
+OMAHA, NE
+(41.25359932560184, -96.11951924232562)"
+C     ,Beer/liquor on/off sale,HY VEE 4                            ,"10808 FORT STREET
+OMAHA, NE
+(41.306708699495914, -96.08310442513766)"
+C     ,Beer/liquor on/off sale,HY VEE 5                            ,"7910 CASS STREET
+OMAHA, NE
+(41.26334339124304, -96.03771564231891)"
+C     ,Beer/liquor on/off sale,HY VEE FOOD STORE 6                 ,"9707 Q STREET
+OMAHA, NE
+(41.20533712035319, -96.06340927269599)"
+C     ,Beer/liquor on/off sale,HY VEE FOOD STORE 1                 ,"5150 CENTER STREET
+OMAHA, NE
+(41.24127402864406, -95.99299235780182)"
+C     ,Beer/liquor on/off sale,HAPPY BAR                           ,"601 NO 16TH ST
+OMAHA, NE
+(41.26501613021753, -95.9371174801214)"
+C     ,Beer/liquor on/off sale,HY VEE DRUGSTORE                    ,"8404 30 STREET
+OMAHA, NE
+(41.3362951284976, -95.96046429259779)"
+C     ,Beer/liquor on/off sale,HAPPY HOLLOW CLUB                   ,"1701 SO 105TH ST
+OMAHA, NE
+(41.24199348626746, -96.07658434042526)"
+C     ,Beer/liquor on/off sale,HOUSE OF HUNAN                      ,"2405 132 STREET
+OMAHA, NE
+(41.23649705802663, -96.11944159739211)"
+C     ,Beer/liquor on/off sale,HATFIELD'S CORNER                   ,"6002 42ND ST
+OMAHA, NE
+(41.19797364524625, -95.97703030528795)"
+C     ,Beer/liquor on/off sale,"HIDE OUT, THE                       ","322 72ND ST
+OMAHA, NE
+(41.262064636953234, -96.02398434525773)"
+C     ,Beer/liquor on/off sale,HILLSIDE PUB                        ,"8033 BLONDO
+OMAHA, NE
+(41.27775367570812, -96.03671887249232)"
+C     ,Beer/liquor on/off sale,HOLIDAY LOUNGE                      ,"7846 DODGE ST
+OMAHA, NE
+(41.2597821311853, -96.03629435319479)"
+C     ,Beer/liquor on/off sale,HILTON GARDEN INN                   ,"17879 CHICAGO STREET
+OMAHA, NE
+(41.261733604810615, -96.19274077372961)"
+C     ,Beer/liquor on/off sale,HILTON OMAHA                        ,"1001 CASS STREET
+OMAHA, NE
+(41.2636761403939, -95.9313438326933)"
+C     ,Beer/liquor on/off sale,HAMPTON INN & SUITES OMAHA DOWNTOWN ,"1212 CUMING STREET
+OMAHA, NE
+(41.26809181155778, -95.93214422929935)"
+C     ,Beer/liquor on/off sale,HANG OUT LOUNGE                     ,"14901 INDUSTRIAL RD
+OMAHA, NE
+(41.22970874734722, -96.14700125531942)"
+C     ,Beer/liquor on/off sale,HOMEWOOD SUITES OMAHA DOWNTOWN      ,"1314 CUMING STREET
+OMAHA, NE
+(41.268019865795395, -95.93317844963303)"
+C     ,Beer/liquor on/off sale,HOMY INN                            ,"1510 SADDLECREEK
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,HORSEMEN'S PARK                     ,"6303 Q STREET
+OMAHA, NE
+(41.2051879988867, -96.01107109818221)"
+C     ,Beer/liquor on/off sale,HAROLD'S BAR                        ,"8558 BLONDO ST
+OMAHA, NE
+(41.27784046235536, -96.04741033379474)"
+C     ,Beer/liquor on/off sale,INTERLUDE LOUNGE                    ,"7643 PACIFIC ST
+OMAHA, NE
+(41.248755524469004, -96.03187482641367)"
+C     ,Beer/liquor on/off sale,DENIM AND DIAMONDS                  ,"302 11TH ST
+OMAHA, NE
+(41.257465944489816, -95.93063345719888)"
+C     ,Beer/liquor on/off sale,JOBY C'S MIDTOWN TAVERN             ,"2514 LEAVENWORTH ST
+OMAHA, NE
+(41.25241662858707, -95.94899752412846)"
+C     ,Beer/liquor on/off sale,JOE BANANAS                         ,"1018 20-22-24 S 10TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,"JAIPUR, THE                         ","10922 ELM STREET
+OMAHA, NE
+(41.232756322218286, -96.08287530953709)"
+C     ,Beer/liquor on/off sale,JOSEPHINE'S COZY CORNER LOUNGE      ,"2201 PIERCE STREET
+OMAHA, NE
+(41.24817182860875, -95.94477071059072)"
+C     ,Beer/liquor on/off sale,J.J.'S BAR & GRILL                  ,"3201 24TH STREET
+OMAHA, NE
+(41.22938768938279, -95.946991087016)"
+C     ,Beer/liquor on/off sale,J C'S BAR                           ,"4971 Q ST
+OMAHA, NE
+(41.20530114747203, -95.99104082899822)"
+C     ,Beer/liquor on/off sale,JACK'S PLACE                        ,"1818 203RD STREET
+OMAHA, NE
+(41.27603670758236, -96.23328333163361)"
+C     ,Beer/liquor on/off sale,JOE'S DUCK INN                      ,"13336 MILLARD AVE
+OMAHA, NE
+(41.210202452531746, -96.12343002493145)"
+C     ,Beer/liquor on/off sale,JOE TESS PLACE                      ,"5424 24 STREET
+OMAHA, NE
+(41.20350045433502, -95.94714584059194)"
+C     ,Beer/liquor on/off sale,J D'S CIRCLE IN                     ,"3602 31 STREET
+OMAHA, NE
+(41.226077817597854, -95.95855968997773)"
+C     ,Beer/liquor on/off sale,JULIO'S                             ,"510 SO 13TH ST
+OMAHA, NE
+(41.25508761501408, -95.93327737505626)"
+C     ,Beer/liquor on/off sale,JULIO'S WEST                        ,"2820 123RD CT
+OMAHA, NE
+(41.232312332843975, -96.10575030676333)"
+C     ,Beer/liquor on/off sale,JOHNNY Z'S                          ,"4130 24TH STREET
+OMAHA, NE
+(41.21932894356588, -95.94710374912393)"
+C     ,Beer/liquor on/off sale,JOHNNY'S CAFE                       ,"4702 SO 27TH ST
+OMAHA, NE
+(41.21145251015247, -95.95144368004816)"
+C     ,Beer/liquor on/off sale,JONESY'S TACO HOUSE                 ,"1502 60TH STREET
+OMAHA, NE
+(41.273235199424775, -96.00490937349548)"
+C     ,Beer/liquor on/off sale,JIMMY C'S HOMESTYLE CAFE            ,"8505 30 STREET
+OMAHA, NE
+(41.3372619011474, -95.96059910139198)"
+C     ,Beer/liquor on/off sale,JOHNNY'S ITALIAN STEAKHOUSE         ,"305 170 STREET
+OMAHA, NE
+(41.260891996850184, -96.18137793262376)"
+C     ,Beer/liquor on/off sale,JIM'S LAST CALL                     ,"4302 42ND STREET
+OMAHA, NE
+(41.217218290299805, -95.97615408126177)"
+C     ,Beer/liquor on/off sale,"JOINT, THE                          ","2514 16
+LEAVENWORTH OMAHA, NE
+"
+C     ,Beer/liquor on/off sale,JERRY'S BAR                         ,"6301 MILITARY AVENUE
+OMAHA, NE
+(41.28742723518769, -96.0096927678859)"
+C     ,Beer/liquor on/off sale,KO ZEE LOUNGE                       ,"5813 60TH ST
+OMAHA, NE
+(41.31171253554397, -96.00452721187192)"
+C     ,Beer/liquor on/off sale,SEMPECK'S BOWLING                   ,"20902 CUMBERLAND DR
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,KELLEY'S HILLTOP LANES              ,"1313 NO 48TH AVE
+OMAHA, NE
+(41.27105957425448, -95.98615751037914)"
+C     ,Beer/liquor on/off sale,KELLEY'S NORTH BOWL                 ,"8701 30TH STREET
+OMAHA, NE
+(41.33907948776746, -95.96111098597873)"
+C     ,Beer/liquor on/off sale,KURT & CLYDE'S                      ,"2202 13 STREET
+OMAHA, NE
+(41.23939606228289, -95.93339612729211)"
+C     ,Beer/liquor on/off sale,KENDALL'S TAVERN                    ,"6310 GILMORE AVE
+OMAHA, NE
+(41.19507585599888, -95.94506748686041)"
+C     ,Beer/liquor on/off sale,KNOLLS GOLF COURSE                  ,"11630 SAHLER STREET
+OMAHA, NE
+(41.29696355194425, -96.09474410436883)"
+C     ,Beer/liquor on/off sale,KRUG PARK                           ,"6205 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.0086765339928)"
+C     ,Beer/liquor on/off sale,KIRK'S LOUNGE                       ,"5216 NO 24TH ST
+OMAHA, NE
+(41.30633997746389, -95.9469021038002)"
+C     ,Beer/liquor on/off sale,KURT & CLYDES                       ,"2202 SO 13TH ST
+OMAHA, NE
+(41.23926854051871, -95.93332234115775)"
+C     ,Beer/liquor on/off sale,"KORNER BAR, THE                     ","3824 Q STREET
+OMAHA, NE
+(41.205391079674996, -95.9713996358783)"
+C     ,Beer/liquor on/off sale,LA BUVETTE                          ,"511 SO 11TH ST
+OMAHA, NE
+(41.254997682811165, -95.93053444286693)"
+C     ,Beer/liquor on/off sale,LAVA JAY'S BAR & LOUNGE             ,"3623 129 STREET
+OMAHA, NE
+(41.291814312884966, -96.1150835814777)"
+C     ,Beer/liquor on/off sale,LEAVENWORTH BAR                     ,"4556 LEAVENWORTH ST
+OMAHA, NE
+(41.25245856468736, -95.98195216139271)"
+C     ,Beer/liquor on/off sale,LIBRARY PUB                         ,"5142 90TH ST
+OMAHA, NE
+(41.205906743988955, -96.05248507597483)"
+C     ,Beer/liquor on/off sale,LOUIS BAR & GRILL                   ,"5702 RADIAL HWY
+OMAHA, NE
+(41.28505388848919, -96.0006182988693)"
+C     ,Beer/liquor on/off sale,LA CASA PIZZARIA                    ,"4432 LEAVENWORTH ST
+OMAHA, NE
+(41.25239864214649, -95.98043782227279)"
+C     ,Beer/liquor on/off sale,LA CASA PIZZARIA WEST               ,"8216 GROVER STREET
+OMAHA, NE
+(41.22676796431142, -96.0404315948474)"
+C     ,Beer/liquor on/off sale,LIGHTHOUSE BAR & GRILL              ,"15676 MAPLE RD
+OMAHA, NE
+(41.292284437604735, -96.15929710711099)"
+C     ,Beer/liquor on/off sale,LIQUID LOUNGE                       ,"11341 DAVENPORT ST
+OMAHA, NE
+(41.260267755801856, -96.08951602139996)"
+C     ,Beer/liquor on/off sale,LO SOLE MIO RISTORANTE ITALIANO     ,"3001 32ND AVE
+OMAHA, NE
+(41.23220845030597, -95.96032830147006)"
+C     ,Beer/liquor on/off sale,LEGENDS PATIO GRILL & BAR           ,"6910 102ND CIRCLE
+OMAHA, NE
+(41.3218220572753, -96.07228406496579)"
+C     ,Beer/liquor on/off sale,TQUILA                              ,"3050 L ST
+OMAHA, NE
+(41.212270893199104, -95.95983435458152)"
+C     ,Beer/liquor on/off sale,LITTLE POLONIA BAR                  ,"3804 Q STREET
+OMAHA, NE
+(41.205391079674996, -95.97073413757664)"
+C     ,Beer/liquor on/off sale,LIT TAPAS RESTAURANT & LOUNGE       ,"1129 180 STREET
+OMAHA, NE
+(41.269365874139766, -96.19630577654834)"
+C     ,Beer/liquor on/off sale,HOUSE OF LOOM                       ,"1012 10TH STREET
+OMAHA, NE
+(41.24986623374765, -95.92939457841177)"
+C     ,Beer/liquor on/off sale,LYNX LOUNGE                         ,"1604 NO 47TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,LA MESA MEXICAN RESTAURANT          ,"11002 EMMET STREET
+OMAHA, NE
+(41.289216886026, -96.08544266241387)"
+C     ,Beer/liquor on/off sale,LA MESA MEXICAN RESTAURANT          ,"5055 155TH ST
+OMAHA, NE
+(41.304349506949485, -96.15631385023396)"
+C     ,Beer/liquor on/off sale,LEMON DROP BAR & GRILL              ,"5423 36TH STREET
+OMAHA, NE
+(41.202517815714614, -95.96728951804482)"
+C     ,Beer/liquor on/off sale,MVP LOUNGE                          ,"5434 99 STREET
+OMAHA, NE
+(41.20396920159902, -96.06772975056269)"
+C     ,Beer/liquor on/off sale,MY PLACE                            ,"2229 LAKE STREET
+OMAHA, NE
+(41.2815186894552, -95.94641646990436)"
+C     ,Beer/liquor on/off sale,MAPLEWOOD LANES                     ,"3030 101 STREET
+OMAHA, NE
+(41.23132534295434, -96.07113186023483)"
+C     ,Beer/liquor on/off sale,MAX                                 ,"1417 JACKSON ST
+OMAHA, NE
+(41.25435427789909, -95.93479730190147)"
+C     ,Beer/liquor on/off sale,M'S PUB INC                         ,"422 SO 11TH ST
+OMAHA, NE
+(41.255870025179604, -95.93053444286693)"
+C     ,Beer/liquor on/off sale,MICS KARAOKE BAR                    ,"1212 119TH ST
+OMAHA, NE
+(41.24765944478151, -96.09884079334473)"
+C     ,Beer/liquor on/off sale,MACKY D'S LOUNGE                    ,"8414 18 Q STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,MOCKINGBIRD LANES                   ,"4870 96 STREET
+OMAHA, NE
+(41.21008903151767, -96.06222757986922)"
+C     ,Beer/liquor on/off sale,MUSETTE BAR                         ,"6020 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.00569977807584)"
+C     ,Beer/liquor on/off sale,MISTER TOAD                         ,"1002 04 HOWARD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,MICHAELS AT THE MARKET              ,"1102 HARNEY STREET
+OMAHA, NE
+(41.25651753704068, -95.93073229371339)"
+C     ,Beer/liquor on/off sale,MOE & CURLY'S PUB                   ,"2946 108TH ST
+OMAHA, NE
+(41.23227417822102, -96.08156222834772)"
+C     ,Beer/liquor on/off sale,MYTH                                ,"1105 HOWARD STREET
+OMAHA, NE
+(41.25544734382578, -95.93111000896567)"
+C     ,Beer/liquor on/off sale,MT FUJI INN                         ,"7215 BLONDO STREET
+OMAHA, NE
+(41.27780448947419, -96.02470245255495)"
+C     ,Beer/liquor on/off sale,MITCH'S BAR                         ,"5106 156 STREET
+OMAHA, NE
+(41.3045235938902, -96.15814278015156)"
+C     ,Beer/liquor on/off sale,MEDITERRANEAN BISTRO                ,"1710 1712 N 120TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,MOLLY'S PUB                         ,"8525 PARK DRIVE
+OMAHA, NE
+(41.20135967062974, -96.04507688195005)"
+C     ,Beer/liquor on/off sale,MY WAY LOUNGE                       ,"2425 NO 84TH ST
+OMAHA, NE
+(41.280880170814385, -96.04338137110346)"
+C     ,Beer/liquor on/off sale,MALONEY'S IRISH PUB                 ,"1830 72 STREET
+OMAHA, NE
+(41.276003619593595, -96.0239660100752)"
+C     ,Beer/liquor on/off sale,MALARA'S                            ,"2119 23 PIERCE ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,MAMA'S PIZZA                        ,"715 SADDLE CRK RD
+OMAHA, NE
+(41.25313280757582, -95.98445678007425)"
+C     ,Beer/liquor on/off sale,MR BILLS                            ,"4928 26TH ST
+OMAHA, NE
+(41.209228835474356, -95.95006233491466)"
+C     ,Beer/liquor on/off sale,MARKS                               ,"4916 UNDERWOOD AVE
+OMAHA, NE
+(41.2650790827596, -95.98945802222664)"
+C     ,Beer/liquor on/off sale,MARKET BASKET                       ,"911 13 S 87 AVENUE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,MIRACLE HILL GOLF AND TENNIS CENTER ,"1401 120TH STREET
+OMAHA, NE
+(41.245213630874474, -96.10063047214203)"
+C     ,Beer/liquor on/off sale,MARQUEE LOUNGE                      ,"14809 MAPLE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,"MARQUEE LOUNGE, THE                 ","14809 MAPLE ROAD
+OMAHA, NE
+(41.29201421759914, -96.14503969379683)"
+C     ,Beer/liquor on/off sale,MARGARITAS                          ,"3636 72 STREET
+OMAHA, NE
+(41.22643034159509, -96.02407387349467)"
+C     ,Beer/liquor on/off sale,MARRIOTT COURTYARD                  ,"1625 67 STREET
+OMAHA, NE
+(41.24353570115225, -96.01456517878874)"
+C     ,Beer/liquor on/off sale,MARYLEBONE                          ,"3710 LEAVENWORTH ST
+OMAHA, NE
+(41.252380655705906, -95.96814409013223)"
+C     ,Beer/liquor on/off sale,NIFTY BAR & GRILL                   ,"4721 RADIAL HWY
+OMAHA, NE
+(41.281230821483945, -95.98462230533019)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"8005 BLONDO STREET
+OMAHA, NE
+(41.27781348269451, -96.03598894402262)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"3548 Q STREET
+OMAHA, NE
+(41.20540007289526, -95.9671908087812)"
+C     ,Beer/liquor on/off sale,NO FRILL SUPERMARKETS               ,"7402 30 STREET
+OMAHA, NE
+(41.32690753248983, -95.95784162869512)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"3026 24 STREET
+OMAHA, NE
+(41.23148189658057, -95.94711889252594)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"4240 50 STREET
+OMAHA, NE
+(41.216778006307706, -95.99045223418055)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"13215 CENTER ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"1221 203RD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,NEIGHBER'S                          ,"4689 LEAVENWORTH
+OMAHA, NE
+(41.25238223298895, -95.98467269180662)"
+C     ,Beer/liquor on/off sale,"NEST LOUNGE, THE                    ","2638 158 PLAZA
+OMAHA, NE
+(41.23480464839865, -96.16310007501389)"
+C     ,Beer/liquor on/off sale,NICOLA'S                            ,"521 13TH STREET
+OMAHA, NE
+(41.26396347104055, -95.93303132324336)"
+C     ,Beer/liquor on/off sale,NOSH WINE LOUNGE                    ,"1006 DODGE STREET
+OMAHA, NE
+(41.25970511149571, -95.92932151449963)"
+C     ,Beer/liquor on/off sale,NATIVE OMAHANS CLUB                 ,"3819 24 STREET
+OMAHA, NE
+(41.223088338665264, -95.94695512113233)"
+C     ,Beer/liquor on/off sale,"NEW OLD BAR, THE                    ","1008 BANCROFT STREET
+OMAHA, NE
+(41.234151398172, -95.93019270049581)"
+C     ,Beer/liquor on/off sale,NOMAD LOUNGE                        ,"1013 JONES STREET
+OMAHA, NE
+(41.253295106223405, -95.92940133748579)"
+C     ,Beer/liquor on/off sale,"OBAR, THE                           ","15660 CENTER RD
+OMAHA, NE
+(41.234094408772116, -96.1596776981138)"
+C     ,Beer/liquor on/off sale,NORTH SHORE TAVERN                  ,"10148 MAPLE STREET
+OMAHA, NE
+(41.28522742113148, -96.07035835830807)"
+C     ,Beer/liquor on/off sale,OFFICE WEST LOUNGE                  ,"1266 SO 119TH CT
+OMAHA, NE
+(41.246998863180735, -96.09883273747155)"
+C     ,Beer/liquor on/off sale,O'CONNOR'S IRISH PUB                ,"1217 HOWARD STREET
+OMAHA, NE
+(41.25544734382578, -95.932746775059)"
+C     ,Beer/liquor on/off sale,OUTPOST BAR                         ,"6301 SO 36TH ST
+OMAHA, NE
+(41.19514822266356, -95.96732732208288)"
+C     ,Beer/liquor on/off sale,O'LEAVERS                           ,"1322 SADDLE CREEK
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,OLSON'S TAVERN                      ,"3207 LEAVENWORTH
+OMAHA, NE
+(41.25233482614561, -95.96036602461854)"
+C     ,Beer/liquor on/off sale,OLD SETTLERS                        ,"5250 21 STREET
+OMAHA, NE
+(41.20511680732514, -95.94303353590938)"
+C     ,Beer/liquor on/off sale,OLD DUNDEE BAR & GRILL              ,"4964 DODGE STREET
+OMAHA, NE
+(41.25968315058378, -95.989898690021)"
+C     ,Beer/liquor on/off sale,OLD MILL LOUNGE                     ,"10944 DODGE RD
+OMAHA, NE
+(41.26530904553562, -96.08551131101684)"
+C     ,Beer/liquor on/off sale,"OLD MARKET TAVERN, THE              ","514 10TH ST
+OMAHA, NE
+(41.26390391852996, -95.92948052681731)"
+C     ,Beer/liquor on/off sale,OLD MARKET SPAGHETTI WORKS          ,"502 11 STREET
+OMAHA, NE
+(41.255395150102444, -95.93060736652204)"
+C     ,Beer/liquor on/off sale,OMAHA COMMUNITY PLAYHOUSE           ,"6915 CASS ST
+OMAHA, NE
+(41.263307418361876, -96.01984611359671)"
+C     ,Beer/liquor on/off sale,OMAHA WINE CO                       ,"701 NO 114TH ST
+OMAHA, NE
+(41.26638811325903, -96.09093055056368)"
+C     ,Beer/liquor on/off sale,ONE-N-GO                            ,"4917 136TH STREET
+OMAHA, NE
+(41.20859900483224, -96.12516180293888)"
+C     ,Beer/liquor on/off sale,OMAHA MINING COMPANY                ,"1713 15
+LEAVENWORTH OMAHA, NE
+"
+C     ,Beer/liquor on/off sale,OMAHA ORIENTAL FOOD AND GIFTS       ,"4425 84TH STREET
+OMAHA, NE
+(41.21614877898495, -96.04303635606287)"
+C     ,Beer/liquor on/off sale,ORDER SONS OF ITALY                 ,"1238 SO 10TH ST
+OMAHA, NE
+(41.24634620488928, -95.92933834456795)"
+C     ,Beer/liquor on/off sale,POPS' PLACE                         ,"3520 F ST
+OMAHA, NE
+(41.2197442592626, -95.96604866980397)"
+C     ,Beer/liquor on/off sale,PASSPORT RESTAURANT                 ,"1101 JACKSON ST
+OMAHA, NE
+(41.254386143831255, -95.93112799540626)"
+C     ,Beer/liquor on/off sale,PIECES LOUNGE                       ,"2615 120 STREET
+OMAHA, NE
+(41.23521619315036, -96.10029562138006)"
+C     ,Beer/liquor on/off sale,PJ'S LOUNGE & GRILL                 ,"7402 F STREET
+OMAHA, NE
+(41.219726272822015, -96.027067669492)"
+C     ,Beer/liquor on/off sale,PIGTAILS BAR                        ,"2056 117TH AVE
+OMAHA, NE
+(41.278245770870264, -96.09829951355809)"
+C     ,Beer/liquor on/off sale,PAXTON BALLROOM                     ,"1403 FARNAM STREET
+OMAHA, NE
+(41.257542764154095, -95.93522890385987)"
+C     ,Beer/liquor on/off sale,PICCOLO PETE'S                      ,"2202 20 STREET
+OMAHA, NE
+(41.23945709897135, -95.94229853500427)"
+C     ,Beer/liquor on/off sale,PICCOLO'S                           ,"13328 MILLARD AVE
+OMAHA, NE
+(41.210274398294075, -96.12332210628796)"
+C     ,Beer/liquor on/off sale,PAT & MIKE'S                        ,"9136 BEDFORD AVE
+OMAHA, NE
+(41.28877621823165, -96.05425417443774)"
+C     ,Beer/liquor on/off sale,PENTHOUSE LOUNGE                    ,"4530 84TH ST
+OMAHA, NE
+(41.21466785619673, -96.04316646673165)"
+C     ,Beer/liquor on/off sale,PARK AVE BAR                        ,"3011 ST MARY'S AVE
+OMAHA, NE
+(41.25325299807429, -95.95719934103568)"
+C     ,Beer/liquor on/off sale,PARKING LOT/THOMASVILLE LOUNGE      ,"5820 SO 99TH ST
+OMAHA, NE
+(41.20023543706245, -96.06892427207175)"
+C     ,Beer/liquor on/off sale,R-BAR                               ,"2056 117TH AVE
+OMAHA, NE
+(41.278245770870264, -96.09829951355809)"
+C     ,Beer/liquor on/off sale,QUIK PIK                            ,"5421 96 STREET
+OMAHA, NE
+(41.20436664331883, -96.06192366759501)"
+C     ,Beer/liquor on/off sale,GOODFELLAS NITE CLUB                ,"623 16 STREET
+OMAHA, NE
+(41.26502407367741, -95.93704232324566)"
+C     ,Beer/liquor on/off sale,REFLECTIONS LOUNGE                  ,"19303 SEWARD STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,RIVER CITY SALOON                   ,"1802 VINTON ST
+OMAHA, NE
+(41.23345892020944, -95.93980645298899)"
+C     ,Beer/liquor on/off sale,RZ'Z POOP DECK                      ,"6006 GROVER STREET
+OMAHA, NE
+(41.22695682193756, -96.00567279841493)"
+C     ,Beer/liquor on/off sale,Q CONSUMABLES                       ,"1228 6TH ST
+OMAHA, NE
+(41.24769310666687, -95.92413223960973)"
+C     ,Beer/liquor on/off sale,RUSSTY'S LOUNGE                     ,"3926 16 STREET
+OMAHA, NE
+(41.221866528403, -95.93742786166706)"
+C     ,Beer/liquor on/off sale,RUSTY NAIL INN                      ,"14210 PIERCE PLAZA
+OMAHA, NE
+(41.24760498381843, -96.13697562943067)"
+C     ,Beer/liquor on/off sale,ROSE & CROWN PUB                    ,"515 20TH STREET
+OMAHA, NE
+(41.263915038865946, -95.9423415527901)"
+C     ,Beer/liquor on/off sale,RUSTY NAIL INN                      ,"14210 PIERCE PLAZA
+OMAHA, NE
+(41.24760498381843, -96.13697562943067)"
+C     ,Beer/liquor on/off sale,REGENCY LODGE                       ,"909 107 AVENUE
+OMAHA, NE
+(41.26827463231631, -96.08054036424083)"
+C     ,Beer/liquor on/off sale,REGENCY LODGE                       ,"909 107TH AVE
+OMAHA, NE
+(41.26827463231631, -96.08054036424083)"
+C     ,Beer/liquor on/off sale,RATIGAN'S PHEASANT TAVERN           ,"13909 S PLAZA
+OMAHA, NE
+(41.202974221927114, -96.13117245131902)"
+C     ,Beer/liquor on/off sale,RED EYE TAVERN                      ,"8437 CENTER RD
+OMAHA, NE
+(41.23416852115378, -96.04507885942024)"
+C     ,Beer/liquor on/off sale,RED LOBSTER RESTAURANT 0115         ,"330 72 STREET
+OMAHA, NE
+(41.262119348069255, -96.02398472519604)"
+C     ,Beer/liquor on/off sale,RED CARPET INN                      ,"9305 145 STREET
+OMAHA, NE
+(41.170205566488114, -96.14024143532572)"
+C     ,Beer/liquor on/off sale,REDNECKS                            ,"3421 84 STREET
+OMAHA, NE
+(41.22999569102144, -96.04304767174729)"
+C     ,Beer/liquor on/off sale,RALSTON OLD MARKET SPAGHETTI WORKS  ,"8412 16 PARK DRIVE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,ROMEO'S                             ,"14630 CENTER RD
+OMAHA, NE
+(41.234013810578595, -96.1432035381626)"
+C     ,Beer/liquor on/off sale,ROMEO'S MEXICAN FOOD & PIZZA        ,"2929 FARNAM
+OMAHA, NE
+(41.257597277691765, -95.95530461730105)"
+C     ,Beer/liquor on/off sale,RAMADA TROPICS RESORT & CNFRN CNTR  ,"3321 72 STREET
+OMAHA, NE
+(41.22852210867342, -96.0238184909802)"
+C     ,Beer/liquor on/off sale,SHEVY'S                             ,"2607 MAIN ST
+OMAHA, NE
+(41.28244092108602, -96.23703752676498)"
+C     ,Beer/liquor on/off sale,SPAULDING BAR                       ,"3825 NO 30TH ST
+OMAHA, NE
+(41.29360018636742, -95.9564987768952)"
+C     ,Beer/liquor on/off sale,SUPER SAVER 20                      ,"5710 144 STREET
+OMAHA, NE
+(41.310083441483336, -96.13893262096943)"
+C     ,Beer/liquor on/off sale,SPIRIT WORLD                        ,"7517 PACIFIC STREET
+OMAHA, NE
+(41.24881034724956, -96.02945087286963)"
+C     ,Beer/liquor on/off sale,SPRING INN                          ,"2703 10 STREET
+OMAHA, NE
+(41.23399341742916, -95.92941965912478)"
+C     ,Beer/liquor on/off sale,SGT PEFFER'S ITALIAN CAFE- MILLARD  ,"13760 MILLARD AVE
+OMAHA, NE
+(41.20709979153065, -96.12825039100852)"
+C     ,Beer/liquor on/off sale,SOKOL SOUTH OMAHA                   ,"2021 U STREET
+OMAHA, NE
+(41.20203660850569, -95.94268428348278)"
+C     ,Beer/liquor on/off sale,SOKOL AUDITORIUM                    ,"2234 13 STREET
+OMAHA, NE
+(41.23900961076312, -95.93340164802811)"
+C     ,Beer/liquor on/off sale,SCANDINAVIAN/AMER CLUB              ,"7575 CROWN PT AVE
+OMAHA, NE
+(41.31276113675307, -96.03006241184954)"
+C     ,Beer/liquor on/off sale,STAGE II                            ,"3210 NO 30TH ST
+OMAHA, NE
+(41.28828159111555, -95.95657880883545)"
+C     ,Beer/liquor on/off sale,STU'S PLACE                         ,"9101 BEDFORD AVENUE
+OMAHA, NE
+(41.288767225011384, -96.0539034388463)"
+C     ,Beer/liquor on/off sale,STOKES GRILL & BAR                  ,"1122 HOWARD STREET
+OMAHA, NE
+(41.255502166606334, -95.93085090514495)"
+C     ,Beer/liquor on/off sale,STAYBRIDGE HOTEL                    ,"7825 DAVENPORT ST
+OMAHA, NE
+(41.26114005227129, -96.03771564231891)"
+C     ,Beer/liquor on/off sale,STADIUM BAR                         ,"2601 13 STREET
+OMAHA, NE
+(41.23488520811036, -95.93325816673028)"
+C     ,Beer/liquor on/off sale,STOLI'S LOUNGE                      ,"715 120TH ST
+OMAHA, NE
+(41.26549355470112, -96.10049125675991)"
+C     ,Beer/liquor on/off sale,SIDELINES SPORTS BAR                ,"4821 Q STREET
+OMAHA, NE
+(41.20526363170063, -95.98781233098757)"
+C     ,Beer/liquor on/off sale,SNEAKY PETE'S                       ,"3802 L STREET
+OMAHA, NE
+(41.21275652709494, -95.97034742910404)"
+C     ,Beer/liquor on/off sale,SOUTH OMAHA HILLSIDE                ,"3906 L ST
+OMAHA, NE
+(41.212621628790544, -95.97147158164063)"
+C     ,Beer/liquor on/off sale,STROKERS  SPORTS BAR & GRILL        ,"7812 F STREET
+OMAHA, NE
+(41.219726272822015, -96.03409137454082)"
+C     ,Beer/liquor on/off sale,SHADOW RIDGE COUNTRY CLUB           ,"1501 188TH PLAZA
+OMAHA, NE
+(41.24560079261773, -96.21024844989415)"
+C     ,Beer/liquor on/off sale,SAM'S CLUB 8146                     ,"13130 L STREET
+OMAHA, NE
+(41.21290166184489, -96.11438289870317)"
+C     ,Beer/liquor on/off sale,SULLIVANS                           ,"3926 FARNAM ST
+OMAHA, NE
+(41.25782241744196, -95.97229336738451)"
+C     ,Beer/liquor on/off sale,SMOKE PIT BBQ & LOUNGE              ,"230 25TH STREET
+OMAHA, NE
+(41.2583613256393, -95.94831816942227)"
+C     ,Beer/liquor on/off sale,SEAN O'CASEY'S                      ,"10730 Q ST
+OMAHA, NE
+(41.205364100014094, -96.07982189973069)"
+C     ,Beer/liquor on/off sale,SUNSET VALLEY COUNTRY CLUB          ,"9300 ARBOR ST
+OMAHA, NE
+(41.236647631535384, -96.05460804795376)"
+C     ,Beer/liquor on/off sale,SAM & LOUIE'S NEW YORK PIZZERIA     ,"541 155 PLAZA
+OMAHA, NE
+(41.2635359972131, -96.15557682314082)"
+C     ,Beer/liquor on/off sale,SENOR MATIAS                        ,"2505 90TH ST
+OMAHA, NE
+(41.235809480656286, -96.05256116998585)"
+C     ,Beer/liquor on/off sale,SHARK CLUB                          ,"2808 72 STREET
+OMAHA, NE
+(41.23253598609285, -96.02395914624137)"
+C     ,Beer/liquor on/off sale,SHERI'S WALKING CANE                ,"2909 LEAVENWORTH
+OMAHA, NE
+(41.25235846414803, -95.95497197692545)"
+C     ,Beer/liquor on/off sale,SORTINO'S                           ,"7880 L ST
+OMAHA, NE
+(41.212711560993455, -96.03737389994774)"
+C     ,Beer/liquor on/off sale,TWO FINE IRISHMEN                   ,"18101 R PLAZA
+OMAHA, NE
+(41.20435685934126, -96.19900904827387)"
+C     ,Beer/liquor on/off sale,TAVERN ON Q                         ,"18010 R PLAZA
+OMAHA, NE
+(41.20385323900484, -96.19747120760377)"
+C     ,Beer/liquor on/off sale,TGI FRIDAYS                         ,"3636 156 STREET
+OMAHA, NE
+(41.29125741072629, -96.1582887631356)"
+C     ,Beer/liquor on/off sale,T'S TAVERN                          ,"7821 MILITARY AVE
+OMAHA, NE
+(41.30340426744309, -96.03453786469922)"
+C     ,Beer/liquor on/off sale,TIGER TOM'S PUB                     ,"7103 MILITARY AVE
+OMAHA, NE
+(41.296663272428646, -96.02213938477144)"
+C     ,Beer/liquor on/off sale,TED'S LIQUOR                        ,"8423 30 STREET
+OMAHA, NE
+(41.33648189256982, -95.9603698571616)"
+C     ,Beer/liquor on/off sale,TIME CLOCK LOUNGE                   ,"4601 90 STREET
+OMAHA, NE
+(41.21321320282141, -96.05248157900334)"
+C     ,Beer/liquor on/off sale,T HENERY'S PUB                      ,"318 11 STREET
+OMAHA, NE
+(41.25731274406591, -95.93063069683087)"
+C     ,Beer/liquor on/off sale,TRACKSIDE LOUNGE                    ,"1506 60TH STREET
+OMAHA, NE
+(41.27326970402475, -96.00490937349548)"
+C     ,Beer/liquor on/off sale,TREAT AMERICA                       ,"3555 FARNAM
+OMAHA, NE
+(41.257685792219945, -95.96558336058602)"
+C     ,Beer/liquor on/off sale,TRADER JOE'S 719                    ,"10305 PACIFIC ST
+OMAHA, NE
+(41.24865659904577, -96.07342255362245)"
+C     ,Beer/liquor on/off sale,TRIANGLE BAR                        ,"6801 RAILROAD AVENUE
+OMAHA, NE
+(41.19137964245846, -95.93718942588373)"
+C     ,Beer/liquor on/off sale,UNDERWOOD BAR & GRILL               ,"4918 UNDERWOOD
+OMAHA, NE
+(41.265133905540154, -95.98836352714544)"
+C     ,Beer/liquor on/off sale,VETERANS F W 247                    ,"3302 LEAVENWORTH ST
+OMAHA, NE
+(41.25238964892617, -95.96181286304596)"
+C     ,Beer/liquor on/off sale,VETERANS F W 8334                   ,"5083 SO 136TH ST
+OMAHA, NE
+(41.20575980170696, -96.12192815714252)"
+C     ,Beer/liquor on/off sale,VETERANS FW FLORENCE 3421           ,"3434 MCKINLEY ST
+OMAHA, NE
+(41.34332219655479, -95.96503189899067)"
+C     ,Beer/liquor on/off sale,VETERANS DISABLED AMERICAN 2        ,"4515 F STREET
+OMAHA, NE
+(41.2197442592626, -95.98131915786149)"
+C     ,Beer/liquor on/off sale,VILLA LOSOLE                        ,"3018 20-22-24 SO 32
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,VALENTINO'S                         ,"10190 MAPLE STREET
+OMAHA, NE
+(41.28516094367387, -96.07001029639105)"
+C     ,Beer/liquor on/off sale,VARSITY SPORTS CAFE                 ,"9735 Q ST
+OMAHA, NE
+(41.20528972309551, -96.06461892105693)"
+C     ,Beer/liquor on/off sale,WAYSIDE TAVERN                      ,"8503 MAPLE STREET
+OMAHA, NE
+(41.285017052149215, -96.04539585244913)"
+C     ,Beer/liquor on/off sale,WEST LANES                          ,"151 NO 72ND ST
+OMAHA, NE
+(41.26170662514971, -96.02390205594884)"
+C     ,Beer/liquor on/off sale,WET                                 ,"1021 178 STREET
+OMAHA, NE
+(41.24939570271731, -96.19253069274417)"
+C     ,Beer/liquor on/off sale,WHEATFIELDS EXPRESS                 ,"1202 HOWARD STREET
+OMAHA, NE
+(41.25544734382578, -95.93218919540084)"
+C     ,Beer/liquor on/off sale,WHITE HOUSE BAR & GRILL             ,"7768 CASS STREET
+OMAHA, NE
+(41.26329842514161, -96.03480183894396)"
+C     ,Beer/liquor on/off sale,V. MERTZ                            ,"1022 HOWARD ST
+OMAHA, NE
+(41.255502166606334, -95.92956519766393)"
+C     ,Beer/liquor on/off sale,"WAITING ROOM, THE                   ","6212 MAPLE STREET
+OMAHA, NE
+(41.28505388848919, -96.00842436409579)"
+C     ,Beer/liquor on/off sale,WHOLE FOODS MARKET                  ,"10020 REGENCY CIRCLE
+OMAHA, NE
+(41.2607168815249, -96.06973931601847)"
+C     ,Beer/liquor on/off sale,ZIN ROOM                            ,"316 15TH ST
+OMAHA, NE
+(41.25736201555363, -95.9358986755839)"
+C     ,Beer/liquor on/off sale,WELCOME INN                         ,"2332 24 STREET
+OMAHA, NE
+(41.23703783749237, -95.94711862749904)"
+C     ,Beer/liquor on/off sale,WALDO'S PUB                         ,"5936 Q STREET
+OMAHA, NE
+(41.20522020848938, -96.00438676791305)"
+C     ,Beer/liquor on/off sale,WOHLNER'S GROCERY                   ,"2289 67TH ST
+OMAHA, NE
+(41.23895914915332, -96.01455945357469)"
+C     ,Beer/liquor on/off sale,WINCHESTER BAR                      ,"7002 Q STREET
+OMAHA, NE
+(41.20527416781118, -96.02043966613604)"
+C     ,Beer/liquor on/off sale,WINE STYLES                         ,"1006 74TH PLAZA
+OMAHA, NE
+(41.249527051730404, -96.02789909345064)"
+C     ,Beer/liquor on/off sale,BLIND DAVE'S BAR                    ,"5082 136 STREET
+OMAHA, NE
+(41.20571044848679, -96.1219619397287)"
+C     ,Beer/liquor on/off sale,WINERY                              ,"741 NO 98TH ST
+OMAHA, NE
+(41.26705848861519, -96.06490115615055)"
+C     ,Beer/liquor on/off sale,"1020, THE                           ","5013 UNDERWOOD AVE
+OMAHA, NE
+(41.2650790827596, -95.99081599849092)"
+C     ,Beer/liquor on/off sale,20'S NIGHT CLUB                     ,"7301 FARNAM
+OMAHA, NE
+(41.25777468536004, -96.02562954825939)"
+C     ,Beer/liquor on/off sale,3'S LOUNGE                          ,"8919 30 STREET
+OMAHA, NE
+(41.34122105837473, -95.9617448388837)"
+C     ,Beer/liquor on/off sale,21ST AMENDMENT                      ,"4727 96TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+CCB   ,Cigar bar + liquor on/off sale,HAVANA GARAGE                       ,"1008 HOWARD STREET
+OMAHA, NE
+(41.255502166606334, -95.92939370981348)"
+CCB   ,Cigar bar + liquor on/off sale,JAKES CIGARS & SPIRITS              ,"6206 MAPLE STREET
+OMAHA, NE
+(41.28505388848919, -96.00816967609708)"
+CCB   ,Cigar bar + liquor on/off sale,NICKLEBYS                           ,"2464 120TH ST
+OMAHA, NE
+(41.23711603393408, -96.10078285098933)"
+CCB   ,Cigar bar + liquor on/off sale,RAVENITE CIGAR BAR & LOUNGE         ,"2615 144 STREET
+OMAHA, NE
+(41.28293509190909, -96.13874707678698)"
+CK    ,Catering + liquor on/off sale,AGAVE                               ,"5013 UNDERWOOD AVE
+OMAHA, NE
+(41.2650790827596, -95.99081599849092)"
+CK    ,Catering + liquor on/off sale,BIAGGI'S RISTORANTE ITALIANO        ,"13655 CALIFORNIA ST
+OMAHA, NE
+(41.26578954716274, -96.12833132999117)"
+CK    ,Catering + liquor on/off sale,BREWBURGER'S                        ,"7515 PACIFIC ST
+OMAHA, NE
+(41.248755524469004, -96.0295257743635)"
+CK    ,Catering + liquor on/off sale,BRICK HOUSE TAVERN & TAP            ,"701 102 STREET
+OMAHA, NE
+(41.265788015856856, -96.07137905699352)"
+CK    ,Catering + liquor on/off sale,BLUE JAY BAR                        ,"2416 DAVENPORT ST
+OMAHA, NE
+(41.261661659048286, -95.94769350718599)"
+CK    ,Catering + liquor on/off sale,BREWBURGER'S                        ,"4629 108TH ST
+OMAHA, NE
+(41.2130617379275, -96.08133818294333)"
+CK    ,Catering + liquor on/off sale,BARLEY'S TIP TOP                    ,"1510 CUMING STREET
+OMAHA, NE
+(41.26800387267763, -95.93603198536977)"
+CK    ,Catering + liquor on/off sale,CLANCY'S PUB                        ,"7120 PACIFIC STREET
+OMAHA, NE
+(41.24873840148723, -96.02234622883816)"
+CK    ,Catering + liquor on/off sale,CLANCY'S/CLUB PATRICK'S             ,"777 114 STREET
+OMAHA, NE
+(41.26752534084197, -96.09232440283883)"
+CK    ,Catering + liquor on/off sale,COME INTO MY KITCHEN CATERING       ,"5423 LEAVENWORTH ST
+OMAHA, NE
+(41.252362669265324, -95.99772279167593)"
+CK    ,Catering + liquor on/off sale,D J'S DUGOUT                        ,"636 114 STREET
+OMAHA, NE
+(41.26524300065584, -96.09107547401047)"
+CK    ,Catering + liquor on/off sale,DOLCE CAFE                          ,"12317 MAPLE DRIVE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+CK    ,Catering + liquor on/off sale,EDDIE'S CATERING                    ,"5007 09-11 SO 24TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+CK    ,Catering + liquor on/off sale,EL DORADO RESTAURANT                ,"5134 24TH ST
+OMAHA, NE
+(41.20644098046089, -95.94712846419178)"
+CK    ,Catering + liquor on/off sale,FLASHBACKS                          ,"3015 SO 83RD PLAZA
+OMAHA, NE
+(41.23222470937624, -96.04190553076452)"
+CK    ,Catering + liquor on/off sale,FIREWATER GRILLE                    ,"7007 GROVER STREET
+OMAHA, NE
+(41.22701078125937, -96.02212139833085)"
+CK    ,Catering + liquor on/off sale,FARRELL'S SPORTS PUB                ,"902 DODGE STREET
+OMAHA, NE
+(41.259629191262036, -95.92828613779369)"
+CK    ,Catering + liquor on/off sale,G I FORUM                           ,"2002 N STREET
+OMAHA, NE
+(41.20968084575475, -95.9423965004334)"
+CK    ,Catering + liquor on/off sale,GOODNIGHTS HEADQUARTERS             ,"1302 MIKE FAHEY ST
+OMAHA, NE
+(41.26590732248536, -95.93315486538351)"
+CK    ,Catering + liquor on/off sale,GOLDEEZ                             ,"5502 103 STREET
+OMAHA, NE
+(41.30825179928135, -96.07466895258807)"
+CK    ,Catering + liquor on/off sale,GEORGETOWNE CLUB                    ,"2440 141 CIRCLE
+OMAHA, NE
+(41.23650953245009, -96.13560486309188)"
+CK    ,Catering + liquor on/off sale,HY VEE 3                            ,"8809 CENTER ROAD
+OMAHA, NE
+(41.23414032450374, -96.05106509877342)"
+CK    ,Catering + liquor on/off sale,HY VEE WINE & SPIRITS 4             ,"10120 MAPLE STREET
+OMAHA, NE
+(41.28522139784508, -96.07011742685194)"
+CK    ,Catering + liquor on/off sale,HY VEE WINE & SPIRITS 6             ,"9725 Q STREET
+OMAHA, NE
+(41.205286471700326, -96.06417998270793)"
+CK    ,Catering + liquor on/off sale,COCO KEY WATER RESORT & HOTEL OMAHA ,"3321 72 STREET
+OMAHA, NE
+(41.22852210867342, -96.0238184909802)"
+CK    ,Catering + liquor on/off sale,ICEHOUSE                            ,"10920 EMMET STREET
+OMAHA, NE
+(41.28927983856806, -96.08317637089999)"
+CK    ,Catering + liquor on/off sale,INGREDIENT RESTAURANT               ,"10317 PACIFIC ST
+OMAHA, NE
+(41.24871142182633, -96.07492059467103)"
+CK    ,Catering + liquor on/off sale,O'BRIEN'S LOUNGE                    ,"1014 1016 S 74TH PLZ
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+CK    ,Catering + liquor on/off sale,LEVY PREMIUM FOODSERVICE            ,"455 10 STREET
+OMAHA, NE
+(41.26319184990429, -95.92917846964345)"
+CK    ,Catering + liquor on/off sale,LIVESTOCK EXCHANGE                  ,"4920 30 STREET
+OMAHA, NE
+(41.216274681552946, -95.95709630795983)"
+CK    ,Catering + liquor on/off sale,LIV LOUNGE                          ,"2279 67TH ST
+OMAHA, NE
+(41.23900047635042, -96.01456806969506)"
+CK    ,Catering + liquor on/off sale,LAZLO'S BREWERY & GRILL - OMAHA     ,"2425 192 AVENUE
+OMAHA, NE
+(41.23844931725769, -96.21618076887589)"
+CK    ,Catering + liquor on/off sale,MCFLY'S CENTER STREET TAVERN        ,"4503 CENTER ST
+OMAHA, NE
+(41.24148900247229, -95.98063965767675)"
+CK    ,Catering + liquor on/off sale,MCKENNA'S BLUES BOOZE & BBQ         ,"7425 PACIFIC STREET
+OMAHA, NE
+(41.2488013540293, -96.02749035084577)"
+CK    ,Catering + liquor on/off sale,MANGIA ITALIANA                     ,"6516 IRVINGTON ROAD
+OMAHA, NE
+(41.31839988587683, -96.0536516286781)"
+CK    ,Catering + liquor on/off sale,O                                   ,"1015 FARNAM STREET
+OMAHA, NE
+(41.257542764154095, -95.92995887676818)"
+CK    ,Catering + liquor on/off sale,OLD MATTRESS FACTORY BAR & GRILL    ,"501 13TH ST
+OMAHA, NE
+(41.2637585346221, -95.93303303104685)"
+CK    ,Catering + liquor on/off sale,OMAHA MARRIOTT HOTEL                ,"10220 REGENCY CIRCLE
+OMAHA, NE
+(41.259851448126085, -96.07333116598191)"
+CK    ,Catering + liquor on/off sale,PIZZA SHOPPE                        ,"6056 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.00638326281808)"
+CK    ,Catering + liquor on/off sale,PATRICK'S MARKET                    ,"1416 HOWARD STREET
+OMAHA, NE
+(41.25549230992726, -95.93556165301072)"
+CK    ,Catering + liquor on/off sale,PAULI'S                             ,"4016 18
+LEAVENWORTH OMAHA, NE
+"
+CK    ,Catering + liquor on/off sale,PALETERIA Y RESTAURANT SAN LUIS     ,"4802 4804 S 24TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+CK    ,Catering + liquor on/off sale,PHOENIX FOOD & SPIRITS              ,"12015 BLONDO STREET
+OMAHA, NE
+(41.277560809067495, -96.1013896388628)"
+CK    ,Catering + liquor on/off sale,DEL MARE RESTAURANT & REEF LOUNGE   ,"810 169 STREET
+OMAHA, NE
+(41.25162841922986, -96.17921919734492)"
+CK    ,Catering + liquor on/off sale,RICK'S CAFE BOATYARD                ,"345 RIVERFRONT DRIVE
+OMAHA, NE
+(41.262174272604966, -95.92468884967644)"
+CK    ,Catering + liquor on/off sale,SPEZIA                              ,"3125 72ND ST
+OMAHA, NE
+(41.23039734868697, -96.02379707539095)"
+CK    ,Catering + liquor on/off sale,STARSKY'S                           ,"4020 13 STREET
+OMAHA, NE
+(41.22155499658825, -95.9334073048449)"
+CK    ,Catering + liquor on/off sale,SLOWDOWN                            ,"729 14 STREET
+OMAHA, NE
+(41.26645665139145, -95.93436456347709)"
+CK    ,Catering + liquor on/off sale,TASTE                               ,"11036 ELM ST
+OMAHA, NE
+(41.23267919506206, -96.08482197002076)"
+CK    ,Catering + liquor on/off sale,TIP TOP BALLROOM                    ,"1502 CUMING STREET
+OMAHA, NE
+(41.26800318258563, -95.93593675267383)"
+CK    ,Catering + liquor on/off sale,TD AMERITRADE PARK                  ,"1200 MIKE FAHEY ST
+OMAHA, NE
+(41.265898596621454, -95.93185782654126)"
+CK    ,Catering + liquor on/off sale,UPSTREAM BREWING COMPANY            ,"17070 WRIGHT PLAZA
+OMAHA, NE
+(41.23305422529626, -96.1814362958213)"
+CK    ,Catering + liquor on/off sale,"UNION PIZZERIA & SPORTS BAR, THE    ","1420 CUMING STREET
+OMAHA, NE
+(41.26801087257513, -95.93539977504543)"
+CK    ,Catering + liquor on/off sale,URBAN WINE COMPANY                  ,"1037 JONES ST
+OMAHA, NE
+(41.25329095123142, -95.92970257440457)"
+CK    ,Catering + liquor on/off sale,WHEATFIELD'S                        ,"1224 SO 103RD ST
+OMAHA, NE
+(41.24727503218334, -96.07319406579327)"
+D     ,Beer/liquor off sale,AVANZA SUPERMARKET 733              ,"2900 LEAVENWORTH
+OMAHA, NE
+(41.2524711793867, -95.95451524591853)"
+D     ,Beer/liquor off sale,AFOMA CORNER STORE                  ,"5522 30 STREET
+OMAHA, NE
+(41.20231946177834, -95.95781179899329)"
+D     ,Beer/liquor off sale,AVP ENERGY #3                       ,"10505 PACIFIC ST
+OMAHA, NE
+(41.24871142182633, -96.07714192008342)"
+D     ,Beer/liquor off sale,ASIAN MARKET                        ,"321 76 STREET
+OMAHA, NE
+(41.26174471136048, -96.03135194313306)"
+D     ,Beer/liquor off sale,ALDI 75                             ,"3433 90 STREET
+OMAHA, NE
+(41.290313266925196, -96.05266059728535)"
+D     ,Beer/liquor off sale,ALL NATIONS GROCERY LIQUOR TOBACCO  ,"715 24TH STREET
+OMAHA, NE
+(41.2670390746564, -95.94694694715533)"
+D     ,Beer/liquor off sale,ALL AMERICAN PUMPS                  ,"4219 60TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,AMES AVENUE CONVENIENCE STORE       ,"4145 AMES AVENUE
+OMAHA, NE
+(41.29957707580354, -95.97544658501016)"
+D     ,Beer/liquor off sale,ANDY'S GENERAL STORE                ,"9501 145 STREET
+OMAHA, NE
+(41.16894546950444, -96.14025847120041)"
+D     ,Beer/liquor off sale,ANDY & LILLIE'S PKG LIQUOR          ,"3219 PARKER ST
+OMAHA, NE
+(41.2763826972091, -95.96006395701481)"
+D     ,Beer/liquor off sale,ANDERSON FOOD SHOP                  ,"123 114TH ST
+OMAHA, NE
+(41.25909316445847, -96.09094969983065)"
+D     ,Beer/liquor off sale,ANDERSON'S BP AMOCO SERVICE         ,"3423 72 STREET
+OMAHA, NE
+(41.22718397188304, -96.02381156832978)"
+D     ,Beer/liquor off sale,ANDERSON FOOD SHOP                  ,"445 114 STREET
+OMAHA, NE
+(41.262162209956436, -96.09090599958215)"
+D     ,Beer/liquor off sale,ANDERSON STANDARD SERVICE           ,"2630 SO 140TH ST
+OMAHA, NE
+(41.23453810664461, -96.13405101809752)"
+D     ,Beer/liquor off sale,ANDERSON AMOCO FOOD SHOP            ,"15635 DODGE RD
+OMAHA, NE
+(41.26178924996597, -96.15862234178303)"
+D     ,Beer/liquor off sale,ANDERSON AMOCO FOOD SHOP            ,"11955 PACIFIC ST
+OMAHA, NE
+(41.248684442165484, -96.10011959793201)"
+D     ,Beer/liquor off sale,ANDERSON AMOCO FOOD SHOP            ,"16727 Q' ST
+OMAHA, NE
+(41.205121283066205, -96.17675982126894)"
+D     ,Beer/liquor off sale,ANDERSON AMOCO FOOD SHOP            ,"17915 ARBOR ST
+OMAHA, NE
+(41.23736197781659, -96.19535780083487)"
+D     ,Beer/liquor off sale,BIG BEAR SINCLAIR                   ,"5608 AMES STREET
+OMAHA, NE
+(41.29963135686097, -96.00050287958432)"
+D     ,Beer/liquor off sale,BIG BEAR SINCLAIR                   ,"5822 MAPLE STREET
+OMAHA, NE
+(41.28498107926799, -96.00309174419084)"
+D     ,Beer/liquor off sale,B J'S                               ,"4122 AMES AVENUE
+OMAHA, NE
+(41.29957707580354, -95.97547356467106)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #40                 ,"107 40 STREET
+OMAHA, NE
+(41.259778667759235, -95.9732332688052)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #31                 ,"13125 Q ST
+OMAHA, NE
+(41.20513027628647, -96.11911327919086)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #72                 ,"2901 72 STREET
+OMAHA, NE
+(41.28514052906379, -96.0238290980969)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #13                 ,"2765 13 COURT
+OMAHA, NE
+(41.232414843196636, -95.93379392062724)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS                     ,"3435 42ND ST
+OMAHA, NE
+(41.22776003306682, -95.97577259742172)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS                     ,"101 30TH ST
+OMAHA, NE
+(41.259749880278406, -95.9564968860257)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #20                 ,"2510 132
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #12                 ,"10202 MAPLE STREET
+OMAHA, NE
+(41.28524781643874, -96.0708181852127)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #18                 ,"4805 108TH STREET
+OMAHA, NE
+(41.21102329004843, -96.08136073866953)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #60                 ,"6003 CENTER STREET
+OMAHA, NE
+(41.23789257781385, -96.00535803570466)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS 61                  ,"2635 160 STREET
+OMAHA, NE
+(41.283309157568546, -96.16206342897755)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #84                 ,"3052 84TH STREET
+OMAHA, NE
+(41.22988491271295, -96.04319314346203)"
+D     ,Beer/liquor off sale,BUCKY'S AMOCO                       ,"3909 132 STREET
+OMAHA, NE
+(41.22220473659506, -96.1193669706047)"
+D     ,Beer/liquor off sale,BASKET FOOD                         ,"4518 24 STREET
+OMAHA, NE
+(41.21443139323232, -95.9471188734213)"
+D     ,Beer/liquor off sale,BIG JIM'S PLUS                      ,"3024 AMES AVENUE
+OMAHA, NE
+(41.29957707580354, -95.95760403594886)"
+D     ,Beer/liquor off sale,BIG KMART 7493                      ,"5808 144 STREET
+OMAHA, NE
+(41.31101067459234, -96.13893767401089)"
+D     ,Beer/liquor off sale,BIG KMART 7579                      ,"13450 MAPLE ROAD
+OMAHA, NE
+(41.29231141726564, -96.12357543443278)"
+D     ,Beer/liquor off sale,BAG N SAVE                          ,"1826 VINTON
+OMAHA, NE
+(41.23271378864645, -95.94072673727827)"
+D     ,Beer/liquor off sale,BAG 'N SAVE                         ,"5017 GROVER ST
+OMAHA, NE
+(41.22690950278354, -95.99085033483544)"
+D     ,Beer/liquor off sale,BAG 'N SAVE                         ,"770 114 STREET
+OMAHA, NE
+(41.267374048156086, -96.0922054279087)"
+D     ,Beer/liquor off sale,B.I.G. MEATS                        ,"4867 137TH ST
+OMAHA, NE
+(41.20880430895811, -96.12709146367547)"
+D     ,Beer/liquor off sale,BILL'S CONVENIENT STORE             ,"3928 MAPLE STREET
+OMAHA, NE
+(41.28472027587952, -95.97211909350176)"
+D     ,Beer/liquor off sale,CVS PHARMACY 5863                   ,"14460 MAPLE ROAD
+OMAHA, NE
+(41.2923204104859, -96.14000240619761)"
+D     ,Beer/liquor off sale,CVS/PHARMACY 2931                   ,"14303 U STREET
+OMAHA, NE
+(41.20254922206237, -96.13823286553372)"
+D     ,Beer/liquor off sale,CUBBY'S                             ,"3030 AMES AVE
+OMAHA, NE
+(41.29957707580354, -95.95769396815177)"
+D     ,Beer/liquor off sale,CUBBY'S                             ,"4232 REDMAN AVE
+OMAHA, NE
+(41.30980236727669, -95.97694845279909)"
+D     ,Beer/liquor off sale,CUBBY'S                             ,"9220 MORMAN BRIDGE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,CUBBY'S                             ,"5718 RADIAL HWY
+OMAHA, NE
+(41.28505388848919, -96.00128707467468)"
+D     ,Beer/liquor off sale,CHUBB FOODS                         ,"2905 16 STREET
+OMAHA, NE
+(41.233064080976916, -95.93723433950211)"
+D     ,Beer/liquor off sale,CVS/PHARMACY 4929                   ,"10770 FORT STREET
+OMAHA, NE
+(41.306708699495914, -96.08081115396294)"
+D     ,Beer/liquor off sale,CHEAP SMOKES                        ,"3202 L' ST
+OMAHA, NE
+(41.21226189997884, -95.96158803253866)"
+D     ,Beer/liquor off sale,CHEAP SMOKES                        ,"9006 MAPLE ST
+OMAHA, NE
+(41.28515195045361, -96.05379552020275)"
+D     ,Beer/liquor off sale,COSTCO WHOLESALE 1012               ,"12300 DODGE ROAD
+OMAHA, NE
+(41.26348437948908, -96.10465098831047)"
+D     ,Beer/liquor off sale,COASTAL MART SOUTH 24TH STREET      ,"5101 24TH STREET
+OMAHA, NE
+(41.20687043215654, -95.94697394391083)"
+D     ,Beer/liquor off sale,CASEY'S GENERAL STORE 2985          ,"5120 118 STREET
+OMAHA, NE
+(41.20611747415048, -96.09863380330603)"
+D     ,Beer/liquor off sale,CASEY'S GENERAL STORE 2987          ,"15275 WEIR PLAZA
+OMAHA, NE
+(41.206271197815596, -96.1546175406157)"
+D     ,Beer/liquor off sale,CASEY'S GENERAL STORE 2986          ,"9905 Q STREET
+OMAHA, NE
+(41.20534611357351, -96.06814869979041)"
+D     ,Beer/liquor off sale,CORNER FOOD MART                    ,"2430 24 STREET
+OMAHA, NE
+(41.23628712200839, -95.94711603924338)"
+D     ,Beer/liquor off sale,CRYSTAL BEVERAGE MART               ,"4807 09 S 20TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,DAILEY'S PACKAGE LIQUOR             ,"3113 30 STREET
+OMAHA, NE
+(41.28704134160994, -95.95650584891705)"
+D     ,Beer/liquor off sale,DOWNTOWN FOOD MART                  ,"318 16 STREET
+OMAHA, NE
+(41.26182554263663, -95.93719392327378)"
+D     ,Beer/liquor off sale,DINAH MART                          ,"2604 13TH ST
+OMAHA, NE
+(41.234855908813735, -95.93340361738646)"
+D     ,Beer/liquor off sale,FLORENCE FOOD MART                  ,"9516 CALHOUN RD
+OMAHA, NE
+(41.34681846200266, -95.96619256132868)"
+D     ,Beer/liquor off sale,FANTASY'S                           ,"3402 NO 120TH ST
+OMAHA, NE
+(41.29132129957458, -96.10068617081049)"
+D     ,Beer/liquor off sale,FANTASY'S                           ,"3725 147 STREET
+OMAHA, NE
+(41.29249731979183, -96.14359134493402)"
+D     ,Beer/liquor off sale,FANTASY'S                           ,"2540 90 STREET
+OMAHA, NE
+(41.235543068755476, -96.0527008243346)"
+D     ,Beer/liquor off sale,FANTASY'S FOOD & FUEL               ,"18280 WRIGHT STREET
+OMAHA, NE
+(41.23318013038033, -96.20041199063957)"
+D     ,Beer/liquor off sale,FANTASY'S FOOD N FUEL               ,"9004 FORT ST
+OMAHA, NE
+(41.30668171983501, -96.05313901512136)"
+D     ,Beer/liquor off sale,FANTASY'S FOOD N FUEL               ,"16960 EVANS PLAZA
+OMAHA, NE
+(41.29121338093108, -96.17949376023802)"
+D     ,Beer/liquor off sale,FANTASY'S FOOD N FUEL 11            ,"250 168TH CIRCLE
+OMAHA, NE
+(41.26076931790516, -96.17711611074414)"
+D     ,Beer/liquor off sale,GOODIES GAS & TOBACCO               ,"2475 90TH STREET
+OMAHA, NE
+(41.23602989909052, -96.0525662762044)"
+D     ,Beer/liquor off sale,HY VEE GAS                          ,"9601 Q STREET
+OMAHA, NE
+(41.20533712035319, -96.06256390998846)"
+D     ,Beer/liquor off sale,HY VEE GAS 9                        ,"17901 WELCH PLAZA
+OMAHA, NE
+(41.20595765255342, -96.19444948558527)"
+D     ,Beer/liquor off sale,HY VEE GAS 10                       ,"3404 156 STREET
+OMAHA, NE
+(41.28886873534171, -96.15827380973892)"
+D     ,Beer/liquor off sale,HY VEE GAS 8                        ,"749 132 STREET
+OMAHA, NE
+(41.25357888266601, -96.11951899302153)"
+D     ,Beer/liquor off sale,HY VEE GAS 1                        ,"5102 CENTER STREET
+OMAHA, NE
+(41.241256042203474, -95.99316322898738)"
+D     ,Beer/liquor off sale,HY VEE GAS 3                        ,"8829 CENTER ROAD
+OMAHA, NE
+(41.23413861670106, -96.05122221662005)"
+D     ,Beer/liquor off sale,I-80 FUEL                           ,"5318 L STREET
+OMAHA, NE
+(41.21251371014705, -95.99700333405247)"
+D     ,Beer/liquor off sale,HOWELL'S BP                         ,"7166 30 STREET
+OMAHA, NE
+(41.32390832593093, -95.95700603360478)"
+D     ,Beer/liquor off sale,HAMILTON CONVENIENT FOOD MART       ,"4901 HAMILTON
+OMAHA, NE
+(41.272137114066695, -95.9873501836111)"
+D     ,Beer/liquor off sale,JAKE'S MINI MART                    ,"8320 BLONDO ST
+OMAHA, NE
+(41.27786830547507, -96.04244718532287)"
+D     ,Beer/liquor off sale,JET EX 66                           ,"8540 BLONDO STREET
+OMAHA, NE
+(41.27784046235536, -96.04709557108447)"
+D     ,Beer/liquor off sale,JET-EX 66                           ,"1910 NO 144TH ST
+OMAHA, NE
+(41.27712100473195, -96.13880843163253)"
+D     ,Beer/liquor off sale,JNJ GROCERY 2                       ,"3247 42 STREET
+OMAHA, NE
+(41.229072147266116, -95.97576939221429)"
+D     ,Beer/liquor off sale,JOHNSON'S TOBACCO BARN              ,"3510 30 STREET
+OMAHA, NE
+(41.29061389286555, -95.95665177274654)"
+D     ,Beer/liquor off sale,KWIK SHOP #668                      ,"6845 167THST
+OMAHA, NE
+(41.19151799835046, -96.17518516670967)"
+D     ,Beer/liquor off sale,KWIK SHOP #640                      ,"3606 LEAVENWORTH ST
+OMAHA, NE
+(41.25238964892617, -95.96635443929392)"
+D     ,Beer/liquor off sale,KWIK SHOP 622                       ,"9545 Q STREET
+OMAHA, NE
+(41.20534611357351, -96.06147573033297)"
+D     ,Beer/liquor off sale,KWIK SHOP #652                      ,"3222 Q STREET
+OMAHA, NE
+(41.205463025437325, -95.96238842914471)"
+D     ,Beer/liquor off sale,KWIK SHOP #657                      ,"7525 CASS STREET
+OMAHA, NE
+(41.263289431921294, -96.03043113388156)"
+D     ,Beer/liquor off sale,KWIK SHOP #660                      ,"9606 F STREET
+OMAHA, NE
+(41.2197442592626, -96.06268082185227)"
+D     ,Beer/liquor off sale,KWIK SHOP 665                       ,"15556 BLONDO STREET
+OMAHA, NE
+(41.277552679305984, -96.15738842475787)"
+D     ,Beer/liquor off sale,KWIK SHOP 667                       ,"4855 L STREET
+OMAHA, NE
+(41.212540689807895, -95.9871827374925)"
+D     ,Beer/liquor off sale,KWIK SHOP #673                      ,"5306 103RD ST
+OMAHA, NE
+(41.30685340463372, -96.07385593235878)"
+D     ,Beer/liquor off sale,KWIK SHOP #623                      ,"3103 204 STREET
+OMAHA, NE
+(41.286483639934694, -96.23430554711827)"
+D     ,Beer/liquor off sale,KWIK SHOP 653                       ,"5929 72 STREET
+OMAHA, NE
+(41.19668539571476, -96.02365110630336)"
+D     ,Beer/liquor off sale,KICKS 66                            ,"2505 ABBOTT DR PLAZA
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,KICK'S 66                           ,"16808 AUDREY STREET
+OMAHA, NE
+(41.18958999162015, -96.17853148566667)"
+D     ,Beer/liquor off sale,KUM & GO 363                        ,"6606 BLONDO
+OMAHA, NE
+(41.27781513081616, -96.01444704541052)"
+D     ,Beer/liquor off sale,KUM & GO 347                        ,"3352 NO 108TH ST
+OMAHA, NE
+(41.289468696194206, -96.08144967260375)"
+D     ,Beer/liquor off sale,KUM & GO 351                        ,"720 NO 108TH AVE
+OMAHA, NE
+(41.266176255635344, -96.0833202624247)"
+D     ,Beer/liquor off sale,KUM & GO #372                       ,"7152 PACIFIC
+OMAHA, NE
+(41.248799086862824, -96.02339536245753)"
+D     ,Beer/liquor off sale,KUM & GO 352                        ,"1010 154 STREET
+OMAHA, NE
+(41.27089668172386, -96.15371233381434)"
+D     ,Beer/liquor off sale,KUM & GO 348                        ,"12011 BLONDO STREET
+OMAHA, NE
+(41.27761563184805, -96.10112683860484)"
+D     ,Beer/liquor off sale,KUM & GO 367                        ,"18908 Q ST
+OMAHA, NE
+(41.20513530227826, -96.21060926789346)"
+D     ,Beer/liquor off sale,KUM & GO #360                       ,"10025 168TH AVE
+OMAHA, NE
+(41.159943347860406, -96.17729856521325)"
+D     ,Beer/liquor off sale,KUM & GO #361                       ,"1010 189TH STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,KUM & GO #371                       ,"13149 FORT STREET
+OMAHA, NE
+(41.30657293773271, -96.12020279692373)"
+D     ,Beer/liquor off sale,KUM & GO #376                       ,"2627 HWS
+CLEVELAND OMAHA, NE
+"
+D     ,Beer/liquor off sale,KUM & GO #368                       ,"4041 168TH ST
+OMAHA, NE
+(41.29486870563171, -96.17730366049105)"
+D     ,Beer/liquor off sale,KUM & GO #369                       ,"11111 EMMET STREET
+OMAHA, NE
+(41.2896035944986, -96.08633299122283)"
+D     ,Beer/liquor off sale,K-N-J EXPRESS                       ,"3009 PARKER STREET
+OMAHA, NE
+(41.276437519989656, -95.95683961222392)"
+D     ,Beer/liquor off sale,KUM & GO 377                        ,"8242 MAPLE STREET
+OMAHA, NE
+(41.28513396401303, -96.04198742195808)"
+D     ,Beer/liquor off sale,LA ECONOMICA                        ,"5520 36TH STREET
+OMAHA, NE
+(41.20235230853335, -95.96743903097678)"
+D     ,Beer/liquor off sale,LA GUERA                            ,"4229 33 SO 24TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,"LA MEXICANA GROCERY, MEAT & LIQUOR  ","1603 VINTON STREET
+OMAHA, NE
+(41.234287835071456, -95.93736176751234)"
+D     ,Beer/liquor off sale,LANDING ZONE                        ,"7170 BENNINGTON RD
+OMAHA, NE
+(41.364770718238745, -96.02333178534762)"
+D     ,Beer/liquor off sale,MEDICINE MAN PHARMACY               ,"715 132 STREET
+OMAHA, NE
+(41.253926411175996, -96.11952323117409)"
+D     ,Beer/liquor off sale,MIDTOWN GAS & GROCERY               ,"2302 13TH STREET
+OMAHA, NE
+(41.23813598022762, -95.93341323189019)"
+D     ,Beer/liquor off sale,MY-T MART                           ,"10707 BLONDO ST
+OMAHA, NE
+(41.27780448947419, -96.08003773701773)"
+D     ,Beer/liquor off sale,MILLARD PARK FANTASYS               ,"15611 HARRISON ST
+OMAHA, NE
+(41.190777096698866, -96.15900720441056)"
+D     ,Beer/liquor off sale,MANHATTANS                          ,"2529 120 STREET
+OMAHA, NE
+(41.23604083789229, -96.1004220452764)"
+D     ,Beer/liquor off sale,MR BUTTS TOBACCO & SNACKS           ,"5702 36 STREET
+OMAHA, NE
+(41.20060951616543, -95.96745224702204)"
+D     ,Beer/liquor off sale,NEWMAN'S GAS PUMPS                  ,"4414 30 STREET
+OMAHA, NE
+(41.217965530454485, -95.95792914962024)"
+D     ,Beer/liquor off sale,OMAHA 66                            ,"5920 F STREET
+OMAHA, NE
+(41.2197442592626, -96.0039191204578)"
+D     ,Beer/liquor off sale,PACIFIC EXPRESS MART                ,"7611 PACIFIC STREET
+OMAHA, NE
+(41.248755524469004, -96.03156195687392)"
+D     ,Beer/liquor off sale,PARK AVENUE GROCERY                 ,"830 PARK AVENUE
+OMAHA, NE
+(41.25187105642993, -95.95589587269855)"
+D     ,Beer/liquor off sale,QUIKTRIP 596                        ,"5005 108 STREET
+OMAHA, NE
+(41.209346888721285, -96.08135203297125)"
+D     ,Beer/liquor off sale,QUIKTRIP 579                        ,"1704 72 STREET
+OMAHA, NE
+(41.27510682621903, -96.02396600919077)"
+D     ,Beer/liquor off sale,QUIKTRIP 588                        ,"4212 84 STREET
+OMAHA, NE
+(41.218174752554916, -96.043192141872)"
+D     ,Beer/liquor off sale,QUIKTRIP 599                        ,"13007 Q STREET
+OMAHA, NE
+(41.20515725594737, -96.11710779106551)"
+D     ,Beer/liquor off sale,QUIKTRIP 587                        ,"4404 72 STREET
+OMAHA, NE
+(41.217755935991114, -96.02402331620527)"
+D     ,Beer/liquor off sale,QUIKTRIP 580                        ,"6045 L STREET
+OMAHA, NE
+(41.21230686608027, -96.00607749332812)"
+D     ,Beer/liquor off sale,QUIKTRIP #585                       ,"4720 HAMILTON
+OMAHA, NE
+(41.27228851510628, -95.98394224133385)"
+D     ,Beer/liquor off sale,QUIK TRIP 597                       ,"8727 MAPLE STREET
+OMAHA, NE
+(41.285017052149215, -96.04829166938345)"
+D     ,Beer/liquor off sale,REGIS FOOD MART                     ,"6828 143 PLAZA
+OMAHA, NE
+(41.19142312126327, -96.13802974333211)"
+D     ,Beer/liquor off sale,REGIS FOOD MART                     ,"2810 SO 108TH ST
+OMAHA, NE
+(41.23318193270861, -96.08154955146637)"
+D     ,Beer/liquor off sale,REGIS FOOD MART                     ,"7202 F STREET
+OMAHA, NE
+(41.219726272822015, -96.02453158136933)"
+D     ,Beer/liquor off sale,QUIK TRIP 589                       ,"5305 103 STREET
+OMAHA, NE
+(41.3068343141579, -96.07371059593662)"
+D     ,Beer/liquor off sale,RHYTHM & BOOZE PACKAGE LIQUOR       ,"3501 30 STREET
+OMAHA, NE
+(41.290529356595606, -95.95650584492435)"
+D     ,Beer/liquor off sale,RL2                                 ,"5825 30 STREET
+OMAHA, NE
+(41.19958568631226, -95.95763415061438)"
+D     ,Beer/liquor off sale,SPEEDEE MART # 2725                 ,"13235 GROVER STREET
+OMAHA, NE
+(41.22578770329949, -96.12041729613333)"
+D     ,Beer/liquor off sale,SPEEDEE MART # 2762                 ,"13820 MANDERSON CIR
+OMAHA, NE
+(41.293146923294046, -96.12924863846104)"
+D     ,Beer/liquor off sale,SPEEDEE MART #2761                  ,"5205 72ND ST
+OMAHA, NE
+(41.205175769689326, -96.02364975880087)"
+D     ,Beer/liquor off sale,SUPER BEE MART INC                  ,"2611 ST
+MARY OMAHA, NE
+"
+D     ,Beer/liquor off sale,SUPER T'S LIQUOR & MINI MART        ,"3805 LAKE ST
+OMAHA, NE
+(41.28139278437112, -95.97086903588104)"
+D     ,Beer/liquor off sale,SPIRITS AND THINGS                  ,"2762 SO 129TH AVE
+OMAHA, NE
+(41.2334760354318, -96.11465359559053)"
+D     ,Beer/liquor off sale,SUGAR HILL PACKAGE                  ,"5627 29 AMES AVE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,"SWEET SPOT, THE                     ","3522 16TH STREET
+OMAHA, NE
+(41.22649009009945, -95.93740840504881)"
+D     ,Beer/liquor off sale,STOYSICH HOUSE OF SAUSAGE           ,"2502 130 AVENUE
+OMAHA, NE
+(41.236006470109764, -96.11765873906008)"
+D     ,Beer/liquor off sale,SOUTHWESTERN FANTASY'S              ,"14330 HILLSDALE AVE
+OMAHA, NE
+(41.21512174403199, -96.1378911231626)"
+D     ,Beer/liquor off sale,SOUTH OMAHA CONOCO                  ,"4201 24 STREET
+OMAHA, NE
+(41.2184583186929, -95.9469641197396)"
+D     ,Beer/liquor off sale,SOUTH OMAHA CONVENIENT STORE        ,"4201 24 STREET
+OMAHA, NE
+(41.2184583186929, -95.9469641197396)"
+D     ,Beer/liquor off sale,SELECT MART                         ,"3707 CENTER ST
+OMAHA, NE
+(41.241525838812265, -95.96814409013223)"
+D     ,Beer/liquor off sale,SELENA'S MARKET                     ,"3228 CALIFORNIA ST
+OMAHA, NE
+(41.26476432004938, -95.96130924270955)"
+D     ,Beer/liquor off sale,SAM'S FOOD & LIQUOR                 ,"3019 FARNAM STREET
+OMAHA, NE
+(41.257622839677936, -95.9571582068762)"
+D     ,Beer/liquor off sale,BUCKY'S EXPRESS #44                 ,"14404 STONY BRK BLVD
+OMAHA, NE
+(41.198283925334046, -96.13962644137287)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"4420 24TH STREET
+OMAHA, NE
+(41.21577979262093, -95.94711887489416)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"7204 BLONDO STREET
+OMAHA, NE
+(41.27781348269451, -96.024981242384)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"4429 CALIFORNIA ST
+OMAHA, NE
+(41.26476432004938, -95.98026695108723)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"2014 L STREET
+OMAHA, NE
+(41.21228887963969, -95.9427562292451)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"7205 LAWNDALE DRIVE
+OMAHA, NE
+(41.29720286564623, -96.02430675086202)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"5444 CENTER ST
+OMAHA, NE
+(41.2393764591622, -95.99741702218597)"
+D     ,Beer/liquor off sale,TOBACCO HUT 1                       ,"5826 MAPLE STREET
+OMAHA, NE
+(41.28498107926799, -96.00329858825756)"
+D     ,Beer/liquor off sale,TOBACCO HUT 7                       ,"6510 84 STREET
+OMAHA, NE
+(41.195501470770246, -96.04357902183001)"
+D     ,Beer/liquor off sale,TOBACCO HUT 15                      ,"5434 103 STREET
+OMAHA, NE
+(41.30776013775088, -96.07433972815157)"
+D     ,Beer/liquor off sale,TOBACCO HUT 10                      ,"4865 CENTER STREET
+OMAHA, NE
+(41.24155281847311, -95.98744354088103)"
+D     ,Beer/liquor off sale,TOBACCO HUT#5                       ,"13826 P STREET
+OMAHA, NE
+(41.20664067609002, -96.12991063166211)"
+D     ,Beer/liquor off sale,TOBACCO OUTLET                      ,"426 76TH STREET
+OMAHA, NE
+(41.2626022273059, -96.03094497064869)"
+D     ,Beer/liquor off sale,TOBACCO OUTLET                      ,"4747 96TH ST
+OMAHA, NE
+(41.21116861016394, -96.0621068728224)"
+D     ,Beer/liquor off sale,TOBACCO 4 LESS                      ,"10780 Q STREET
+OMAHA, NE
+(41.20540007289526, -96.08080216074268)"
+D     ,Beer/liquor off sale,TOBACCO 4 LESS                      ,"4108 DODGE STREET
+OMAHA, NE
+(41.25964717770262, -95.97489799857226)"
+D     ,Beer/liquor off sale,TOBACCO 4 LESS                      ,"3402 42 STREET
+OMAHA, NE
+(41.22812227076168, -95.97591562099171)"
+D     ,Beer/liquor off sale,TOBACCO 4 LESS                      ,"8928 MAPLE STREET
+OMAHA, NE
+(41.285197780013846, -96.05123033189005)"
+D     ,Beer/liquor off sale,TOBACCO & PHONES 4 LESS             ,"333 72ND STREET
+OMAHA, NE
+(41.262133598197394, -96.02383895756579)"
+D     ,Beer/liquor off sale,TOMATO TOMATO                       ,"2634 156 CIRCLE
+OMAHA, NE
+(41.23484201812095, -96.15714868661793)"
+D     ,Beer/liquor off sale,THRIFTY STOP                        ,"6000 GROVER STREET
+OMAHA, NE
+(41.22696581515788, -96.00513320519735)"
+D     ,Beer/liquor off sale,VINTON STREET TOBACCO               ,"1602 VINTON STREET
+OMAHA, NE
+(41.234259316815496, -95.93763009367808)"
+D     ,Beer/liquor off sale,WALGREENS #04974                    ,"5038 CENTER ST
+OMAHA, NE
+(41.24139962519724, -95.99217327151544)"
+D     ,Beer/liquor off sale,WALGREENS #10437                    ,"5225 90TH ST
+OMAHA, NE
+(41.20502513379728, -96.05232714609498)"
+D     ,Beer/liquor off sale,WALGREENS #07272                    ,"13155 CENTER RD
+OMAHA, NE
+(41.2339886567479, -96.1190859873528)"
+D     ,Beer/liquor off sale,WALGREENS #05360                    ,"5062 155TH ST
+OMAHA, NE
+(41.30440311748139, -96.15645683092431)"
+D     ,Beer/liquor off sale,WALGREENS 05143                     ,"7151 CASS ST
+OMAHA, NE
+(41.263307418361876, -96.02320058476602)"
+D     ,Beer/liquor off sale,WALGREENS #05190                    ,"2323 L ST
+OMAHA, NE
+(41.212270893199104, -95.94658734108992)"
+D     ,Beer/liquor off sale,WALGREENS #05741                    ,"3001 DODGE ST
+OMAHA, NE
+(41.259719123465004, -95.9566597478181)"
+D     ,Beer/liquor off sale,WAL-MART SUPERCENTER 3267           ,"18201 WRIGHT ST
+OMAHA, NE
+(41.23314415749917, -96.19778597031399)"
+D     ,Beer/liquor off sale,WALGREENS #06962                    ,"3121 24TH ST
+OMAHA, NE
+(41.23032110196175, -95.94697709440487)"
+D     ,Beer/liquor off sale,WAL-MART SUPERCENTER #1637          ,"6304 99 STREET
+OMAHA, NE
+(41.19473650847574, -96.06786047069915)"
+D     ,Beer/liquor off sale,WAL-MART SUPERCENTER 5361           ,"12850 L STREET
+OMAHA, NE
+(41.212819479637005, -96.11370835379472)"
+D     ,Beer/liquor off sale,WALGREENS #05059                    ,"10725 FORT ST
+OMAHA, NE
+(41.306618767293, -96.08001975057715)"
+D     ,Beer/liquor off sale,WALGREENS #06936                    ,"4310 AMES AVE
+OMAHA, NE
+(41.29958606902386, -95.97764093076165)"
+D     ,Beer/liquor off sale,WALGREENS #02855                    ,"6101 RADIAL HWY
+OMAHA, NE
+(41.28675215440648, -96.0071679466136)"
+D     ,Beer/liquor off sale,WAL-MART SUPERCENTER 5141           ,"16960 MAPLE ROAD
+OMAHA, NE
+(41.29225956764734, -96.18037227917003)"
+D     ,Beer/liquor off sale,WALGREENS #13137                    ,"13510 Q ST
+OMAHA, NE
+(41.20514826272705, -96.12058816731889)"
+D     ,Beer/liquor off sale,WAL-MART SUPERCENTER 4358           ,"1606 72 STREET
+OMAHA, NE
+(41.27421196225726, -96.0239660082913)"
+D     ,Beer/liquor off sale,WALGREENS #03186                    ,"3701 132ND ST
+OMAHA, NE
+(41.22385098124082, -96.11937287112313)"
+D     ,Beer/liquor off sale,WALGREENS #04443                    ,"9001 CENTER RD
+OMAHA, NE
+(41.23412278299499, -96.05268901954564)"
+D     ,Beer/liquor off sale,WALGREENS #07563                    ,"8989 DODGE RD
+OMAHA, NE
+(41.262073113925254, -96.05199293498025)"
+D     ,Beer/liquor off sale,WALGREENS #03621                    ,"9001 BLONDO ST
+OMAHA, NE
+(41.27777750981335, -96.05306706935903)"
+D     ,Beer/liquor off sale,WALGREENS #05966                    ,"2605 171ST ST
+OMAHA, NE
+(41.236131983936076, -96.18254968096127)"
+D     ,Beer/liquor off sale,WALGREENS #11204                    ,"20201 MANDERSON ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+D     ,Beer/liquor off sale,WALGREENS #11205                    ,"6005 72ND ST
+OMAHA, NE
+(41.19530949433818, -96.02364262815232)"
+D     ,Beer/liquor off sale,WALGREENS #02472                    ,"18040 R PLAZA
+OMAHA, NE
+(41.20435685934126, -96.19829858387072)"
+D     ,Beer/liquor off sale,WALGREENS #11203                    ,"17909 BURKE ST
+OMAHA, NE
+(41.25825322855724, -96.19563659066398)"
+D     ,Beer/liquor off sale,20TH STREET LIQUOR & GROCERY STORE  ,"1928 LEAVENWORTH
+OMAHA, NE
+(41.25245077800555, -95.94120967838933)"
+DK    ,Catering + liquor off sale,ATTITUDE ON FOOD                    ,"2405 N STREET
+OMAHA, NE
+(41.20948213144948, -95.9475849645414)"
+DK    ,Catering + liquor off sale,CHEF HATTAM CATERING                ,"4963 CENTER STREET
+OMAHA, NE
+(41.241497995692555, -95.98926634063398)"
+DK    ,Catering + liquor off sale,CORNHUSKER BEVERAGE MART            ,"8510 K ST
+OMAHA, NE
+(41.21410551013889, -96.04476632702858)"
+DK    ,Catering + liquor off sale,SUPERTARGET T-1777                  ,"17810 CENTER ROAD
+OMAHA, NE
+(41.234332126036634, -96.19379125182475)"
+DK    ,Catering + liquor off sale,TARGET STORE T-2383                 ,"12500 K PLAZA
+OMAHA, NE
+(41.213413032176334, -96.10940959449471)"
+DK    ,Catering + liquor off sale,TARGET STORE T-2010                 ,"6636 73 STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+DK    ,Catering + liquor off sale,TARGET STORE T-2125                 ,"7200 DODGE STREET
+OMAHA, NE
+(41.259629191262036, -96.02456755425055)"
+DK    ,Catering + liquor off sale,TARGET STORE T-2326                 ,"16959 EVANS PLAZA
+OMAHA, NE
+(41.291132471335565, -96.18016361137231)"
+I     ,Beer/liquor on sale,A+ BUFFET                           ,"14426 CENTER ROAD
+OMAHA, NE
+(41.23395923373499, -96.13933536977608)"
+I     ,Beer/liquor on sale,APPLEBEE'S NEIGHBORHOOD GRILL & BAR ,"3350 SO 143RD PLAZA
+OMAHA, NE
+(41.2283777507439, -96.13745045536825)"
+I     ,Beer/liquor on sale,APPLEBEE'S NEIGHBORHOOD GRILL & BAR ,"7450 DODGE ST
+OMAHA, NE
+(41.25968315058378, -96.02886631355057)"
+I     ,Beer/liquor on sale,APPLEBEE'S NEIGHBORHOOD GRILL & BAR ,"13208 MAPLE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,APPLEBEE'S NEIGHBORHOOD GRILL & BAR ,"2829 181
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,APPLEBEE'S NEIGHBORHOOD GRILL & BAR ,"6222 72ND STREET
+OMAHA, NE
+(41.193205333535374, -96.02391049476923)"
+I     ,Beer/liquor on sale,AZTECA FAMILY MEXICAN RESTAURANT    ,"9429 142ND ST
+OMAHA, NE
+(41.16468296189728, -96.13806384873595)"
+I     ,Beer/liquor on sale,"AMAZING PIZZA MACHINE, THE          ","13955 S PLAZA
+OMAHA, NE
+(41.20298573632569, -96.13170859503782)"
+I     ,Beer/liquor on sale,AHMAD'S                             ,"1006 1 2 HOWARD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,A MERRY OCCASION                    ,"3205 HARNEY
+OMAHA, NE
+(41.25661745280085, -95.95951046206486)"
+I     ,Beer/liquor on sale,BUFFALO CO                          ,"4725 SO 96TH ST
+OMAHA, NE
+(41.21138016218149, -96.0621115223173)"
+I     ,Beer/liquor on sale,BUFFALO WILD WINGS GRILL & BAR #39  ,"205 76 STREET
+OMAHA, NE
+(41.260724302240746, -96.03139123778051)"
+I     ,Beer/liquor on sale,BUFFALO WINGS AND RINGS             ,"12240 L ST
+OMAHA, NE
+(41.212630622010806, -96.10487701146701)"
+I     ,Beer/liquor on sale,BOGIES BAR & GRILL                  ,"3305 OLD MAPLE RD
+OMAHA, NE
+(41.28904601484044, -96.0766113200861)"
+I     ,Beer/liquor on sale,BIG JOHN'S BILLIARDS                ,"9819 M STREET
+OMAHA, NE
+(41.21076902541017, -96.06747420826844)"
+I     ,Beer/liquor on sale,BIG HORN MOUNTAIN BBQ               ,"2524 13TH ST
+OMAHA, NE
+(41.235745125325614, -95.93340423633784)"
+I     ,Beer/liquor on sale,BOYD & CHARLIES' BBQ                ,"2706 MAIN STREET
+OMAHA, NE
+(41.283440737808405, -96.23684949039588)"
+I     ,Beer/liquor on sale,BLUE AGAVE                          ,"13615 CALIFORNIA ST
+OMAHA, NE
+(41.265492770893104, -96.12771079779094)"
+I     ,Beer/liquor on sale,BAILEY'S BREAKFAST & LUNCH          ,"1259 120 STREET
+OMAHA, NE
+(41.246753266953064, -96.10056784061096)"
+I     ,Beer/liquor on sale,BOULDER CREEK AMUSEMENT             ,"14208 S STREET
+OMAHA, NE
+(41.20371834070045, -96.13568778419085)"
+I     ,Beer/liquor on sale,BLUE LINE COFFEE                    ,"749 14TH STREET
+OMAHA, NE
+(41.26684482814122, -95.93436456347709)"
+I     ,Beer/liquor on sale,BE'NE PIZZA & PASTA                 ,"12301 05 W MAPLE RD
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,BENSON GOLF COURSE                  ,"5333 72ND STREET
+OMAHA, NE
+(41.20431432053283, -96.02365501153965)"
+I     ,Beer/liquor on sale,BREWSKY'S FOOD & SPIRITS            ,"15350 WEIR STREET
+OMAHA, NE
+(41.206338497574734, -96.15538956268531)"
+I     ,Beer/liquor on sale,"CAPITOL, THE                        ","1011 CAPITOL AVENUE
+OMAHA, NE
+(41.26060945227397, -95.92976102592172)"
+I     ,Beer/liquor on sale,CHIPOTLE MEXICAN GRILL              ,"201 72 STREET
+OMAHA, NE
+(41.261333959827454, -96.02382220610008)"
+I     ,Beer/liquor on sale,CHIPOTLE MEXICAN GRILL              ,"2717 177 STREET
+OMAHA, NE
+(41.23395722992531, -96.19232819268542)"
+I     ,Beer/liquor on sale,CHIPOTLE MEXICAN GRILL              ,"13203 CENTER ROAD
+OMAHA, NE
+(41.23398760011683, -96.11961314113046)"
+I     ,Beer/liquor on sale,CHOO CHOO BAR & GRILL               ,"14238 40-42 U ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,"CHEESECAKE FACTORY, THE             ","10120 CALIFORNIA ST
+OMAHA, NE
+(41.264101516117165, -96.0698457456642)"
+I     ,Beer/liquor on sale,CHUCK E CHEESE'S                    ,"225 76 STREET
+OMAHA, NE
+(41.26090138249108, -96.03138640831914)"
+I     ,Beer/liquor on sale,CHILI'S GRILL & BAR                 ,"3202 143RD PLAZA
+OMAHA, NE
+(41.22998113758754, -96.13759899216724)"
+I     ,Beer/liquor on sale,CASTLE-BARRETT                      ,"4330 32
+LEAVENWORTH OMAHA, NE
+"
+I     ,Beer/liquor on sale,CLUB SEVILLE                        ,"3618 30 STREET
+OMAHA, NE
+(41.29157095508247, -95.95664812082788)"
+I     ,Beer/liquor on sale,CLUB EQUIS                          ,"5017 24TH ST
+OMAHA, NE
+(41.208042328435695, -95.94698781438328)"
+I     ,Beer/liquor on sale,"CLUB MEX, MEXICAN FOOD & BAR        ","3018 3022 NO 93RD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,CALIFORNIA TACO                     ,"3235 CALIFORNIA ST
+OMAHA, NE
+(41.26471528925004, -95.96043790266339)"
+I     ,Beer/liquor on sale,CLARION OMAHA                       ,"4888 118 STREET
+OMAHA, NE
+(41.20890564884117, -96.09865165135437)"
+I     ,Beer/liquor on sale,CHINA BUFFET                        ,"731 737 NO 114TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,CHINA BUFFET                        ,"3605 147 STREET
+OMAHA, NE
+(41.291448793751314, -96.14354142250743)"
+I     ,Beer/liquor on sale,CONNECTIONS                         ,"1901 LEAVENWORTH ST
+OMAHA, NE
+(41.25239864214649, -95.94125436145617)"
+I     ,Beer/liquor on sale,CHANCE RIDGE EVENT CENTER           ,"508 SKYLINE DRIVE
+OMAHA, NE
+(41.25430213849634, -96.25590826983328)"
+I     ,Beer/liquor on sale,CARRABBA'S ITALIAN GRILL            ,"14520 MAPLE ROAD
+OMAHA, NE
+(41.29231676720203, -96.1410420591605)"
+I     ,Beer/liquor on sale,CRYSTAL JADE                        ,"7255 CEDAR STREET
+OMAHA, NE
+(41.24023081509006, -96.02543090339867)"
+I     ,Beer/liquor on sale,CRUISERS BAR & GRILL                ,"8634 F STREET
+OMAHA, NE
+(41.22003290577078, -96.04594142900311)"
+I     ,Beer/liquor on sale,COURTYARD BY MARRIOTT               ,"101 10 STREET
+OMAHA, NE
+(41.259675275706286, -95.92913897761476)"
+I     ,Beer/liquor on sale,CARLOS O'KELLY'S                    ,"12930 MAPLE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,DEPADUA CLUB                        ,"2701 25 STREET
+OMAHA, NE
+(41.234231698008706, -95.94833926510125)"
+I     ,Beer/liquor on sale,DOC'S LEGACY LOUNGE                 ,"3922 AMES AVENUE
+OMAHA, NE
+(41.299609243206746, -95.97122099061077)"
+I     ,Beer/liquor on sale,DEUCE'S LOUNGE                      ,"12107 EMMET STREET
+OMAHA, NE
+(41.29028478780438, -96.10203297274258)"
+I     ,Beer/liquor on sale,DC CENTRE                           ,"11830 STONEGATE CIR
+OMAHA, NE
+(41.28665381824254, -96.09833894031402)"
+I     ,Beer/liquor on sale,DELTA HOUSE                         ,"3121 108TH ST
+OMAHA, NE
+(41.230372821972026, -96.08145736232572)"
+I     ,Beer/liquor on sale,DON CARMELO'S PIZZERIA              ,"10821 PRAIRIE BROOK
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,DON & MILLIE'S                      ,"4430 FARNAM ST
+OMAHA, NE
+(41.25777658788172, -95.97989822905521)"
+I     ,Beer/liquor on sale,DON & MILLIE'S                      ,"10727 CENTER RD
+OMAHA, NE
+(41.23413202213824, -96.0804012465023)"
+I     ,Beer/liquor on sale,DON & MILLIE'S                      ,"8405 Q ST
+OMAHA, NE
+(41.20532812713293, -96.04395693720221)"
+I     ,Beer/liquor on sale,DON & MILLIE'S                      ,"14321 HARRISON ST
+OMAHA, NE
+(41.190777096698866, -96.13792709604377)"
+I     ,Beer/liquor on sale,DRAFTHOUSE                          ,"1203 180 STREET
+OMAHA, NE
+(41.269766390537015, -96.19630959099023)"
+I     ,Beer/liquor on sale,EL BEE'S 2                          ,"10402 SO 144TH ST
+OMAHA, NE
+(41.155928368063485, -96.13962681467916)"
+I     ,Beer/liquor on sale,EL POTRERO                          ,"2505 132 STREET
+OMAHA, NE
+(41.23579843988834, -96.11940522814584)"
+I     ,Beer/liquor on sale,EL AGUILA RESTAURANT                ,"1837 VINTON ST
+OMAHA, NE
+(41.23254161173952, -95.94077772078066)"
+I     ,Beer/liquor on sale,EL ALAMO                            ,"4917 SO 24TH ST
+OMAHA, NE
+(41.20911427287626, -95.94706398176544)"
+I     ,Beer/liquor on sale,EL 7 MARES                          ,"5447 24 STREET
+OMAHA, NE
+(41.203309725014705, -95.94700010937957)"
+I     ,Beer/liquor on sale,FOX & HOUND PUB & GRILLE            ,"17602 WRIGHT STREET
+OMAHA, NE
+(41.232605427740395, -96.19052033001779)"
+I     ,Beer/liquor on sale,FOX & HOUND ENGLISH PUB & GRILLE    ,"504 512 N 120TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,FILM STREAMS                        ,"1340 MIKE FAHEY ST
+OMAHA, NE
+(41.265852499704806, -95.93343925302156)"
+I     ,Beer/liquor on sale,FLORENCE CITY HALL                  ,"2864 STATE STREET
+OMAHA, NE
+(41.33661043742331, -95.95820963558634)"
+I     ,Beer/liquor on sale,FUN PLEX                            ,"7003 Q ST
+OMAHA, NE
+(41.20527416781118, -96.02042167969546)"
+I     ,Beer/liquor on sale,FINICKY FRANKS                      ,"9520 CALHOUN RD
+OMAHA, NE
+(41.34611832041274, -95.96537021804039)"
+I     ,Beer/liquor on sale,FAMOUS DAVE'S                       ,"7051 AMES AVENUE
+OMAHA, NE
+(41.299280299533905, -96.02106919155653)"
+I     ,Beer/liquor on sale,FAMOUS DAVE'S                       ,"12020 ANNE STREET
+OMAHA, NE
+(41.211317611848074, -96.10154052673829)"
+I     ,Beer/liquor on sale,FINNEGAN'S PUB & GRILL              ,"4309 120 STREET
+OMAHA, NE
+(41.217760353188396, -96.10060429615211)"
+I     ,Beer/liquor on sale,FIREBIRDS ROCKY MOUNTAIN GRILL      ,"17415 CHICAGO ST
+OMAHA, NE
+(41.26257896751815, -96.18727289579147)"
+I     ,Beer/liquor on sale,FRANK'S PIZZERIA                    ,"711 132 STREET
+OMAHA, NE
+(41.25396729658131, -96.11952372977659)"
+I     ,Beer/liquor on sale,FERNANDO'S                          ,"378 384 NO 114TH ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,FERNANDO'S ON PACIFIC               ,"7555 PACIFIC ST
+OMAHA, NE
+(41.24881034724956, -96.03072791015126)"
+I     ,Beer/liquor on sale,GOLDBERGS II                        ,"5008 DODGE ST
+OMAHA, NE
+(41.25968315058378, -95.99099586289674)"
+I     ,Beer/liquor on sale,GOLDEN PALACE                       ,"4040 132 STREET
+OMAHA, NE
+(41.22059128701983, -96.11965753166038)"
+I     ,Beer/liquor on sale,GENJI JAPANESE STEAKHOUSE           ,"14505 CENTER RD
+OMAHA, NE
+(41.23374556879383, -96.14084486164751)"
+I     ,Beer/liquor on sale,GENJI JAPANESE STEAKHOUSE           ,"14505 CENTER RD
+OMAHA, NE
+(41.23374556879383, -96.14084486164751)"
+I     ,Beer/liquor on sale,GRISANTI'S                          ,"10875 DODGE RD
+OMAHA, NE
+(41.26195515776159, -96.08460862332515)"
+I     ,Beer/liquor on sale,GERDA'S BAKERY                      ,"5180 LEAVENWORTH
+OMAHA, NE
+(41.25242648526614, -95.99529988323069)"
+I     ,Beer/liquor on sale,GREAT RIVER BUFFET                  ,"346 SADDLE CRK RD
+OMAHA, NE
+(41.26117060675465, -95.98052873900076)"
+I     ,Beer/liquor on sale,GRAND CHINA BUFFET                  ,"11226 CHICAGO CIRCLE
+OMAHA, NE
+(41.261643672607704, -96.08959753018922)"
+I     ,Beer/liquor on sale,"HIVE LOUNGE, THE                    ","1951 ST MARYS AVE
+OMAHA, NE
+(41.254458089593584, -95.94174898857227)"
+I     ,Beer/liquor on sale,HECTOR'S                            ,"1201 157 STREET
+OMAHA, NE
+(41.24535846625608, -96.15990557449133)"
+I     ,Beer/liquor on sale,HECTOR'S                            ,"3007 83RD PLAZA
+OMAHA, NE
+(41.23230131881589, -96.04190553076452)"
+I     ,Beer/liquor on sale,HUHOT MONGOLIAN GRILL               ,"710 NO 114TH ST
+OMAHA, NE
+(41.26654882360579, -96.09110979188016)"
+I     ,Beer/liquor on sale,HUHOT MONGOLIAN GRILL               ,"990 72 STREET
+OMAHA, NE
+(41.26830606039558, -96.02396538850125)"
+I     ,Beer/liquor on sale,HOLIDAY INN EXPRESS                 ,"17677 WRIGHT STREET
+OMAHA, NE
+(41.23255060495984, -96.19213822797002)"
+I     ,Beer/liquor on sale,HILTON GARDEN INN                   ,"1005 DODGE STREET
+OMAHA, NE
+(41.25967415736352, -95.92987793778553)"
+I     ,Beer/liquor on sale,MARU SUSHI KOREAN GRILL             ,"5032 108 STREET
+OMAHA, NE
+(41.20698929352187, -96.08150121076183)"
+I     ,Beer/liquor on sale,HUNAN GARDEN CHINESE RESTAURANT     ,"5916 CENTER STREET
+OMAHA, NE
+(41.23786559815301, -96.0044407272348)"
+I     ,Beer/liquor on sale,HOWARD'S CHARRO CAFE                ,"4443 13 STREET
+OMAHA, NE
+(41.215429789139414, -95.93324825716941)"
+I     ,Beer/liquor on sale,INDIA GARDEN                        ,"2819 125TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,INDIAN OVEN                         ,"1010 HOWARD ST
+OMAHA, NE
+(41.25544734382578, -95.92979699880289)"
+I     ,Beer/liquor on sale,INTERNATIONAL BUFFET                ,"4827 L ST
+OMAHA, NE
+(41.212483273533635, -95.98724951074765)"
+I     ,Beer/liquor on sale,JESSE'S PLACE                       ,"2311 24 STREET
+OMAHA, NE
+(41.23785698932637, -95.94696436993041)"
+I     ,Beer/liquor on sale,JACK AND MARY'S RESTAURANT          ,"655 114 STREET
+OMAHA, NE
+(41.26555889779391, -96.09090491720355)"
+I     ,Beer/liquor on sale,"JAZZ, A LOUISIANA KITCHEN           ","1421 FARNAM STREET
+OMAHA, NE
+(41.257542764154095, -95.93558863267157)"
+I     ,Beer/liquor on sale,J C MANDARIN                        ,"843 847 N 98 ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,J.C. MANDARIN                       ,"2859 168TH STREET
+OMAHA, NE
+(41.23205382263747, -96.17675988369771)"
+I     ,Beer/liquor on sale,JADE GARDEN                         ,"2068 NO 117TH AVE
+OMAHA, NE
+(41.278326834157774, -96.09830199508731)"
+I     ,Beer/liquor on sale,JAMS                                ,"7814 DODGE STREET
+OMAHA, NE
+(41.25975720862157, -96.03567452105375)"
+I     ,Beer/liquor on sale,JOHNNY GOODMAN GOLF COURSE          ,"6111 99 STREET
+OMAHA, NE
+(41.197439069192825, -96.06851951403067)"
+I     ,Beer/liquor on sale,JIM & JENNIE'S GREEK VILLAGE        ,"3026 NO 90TH ST
+OMAHA, NE
+(41.28655922986403, -96.0527623131553)"
+I     ,Beer/liquor on sale,KATIE'S RESTAURANT & TAVERNA        ,"119 SO 40TH ST
+OMAHA, NE
+(41.259026645502445, -95.97333317824132)"
+I     ,Beer/liquor on sale,KELLY INN - OMAHA                   ,"4706 108TH STREET
+OMAHA, NE
+(41.212330944027755, -96.08160190823351)"
+I     ,Beer/liquor on sale,KONA GRILL                          ,"295 170 STREET
+OMAHA, NE
+(41.26076729047068, -96.18137109495424)"
+I     ,Beer/liquor on sale,KRACKY MCGEE'S                      ,"4501 ABBOTT DRIVE
+OMAHA, NE
+(41.29515750647259, -95.90063127411452)"
+I     ,Beer/liquor on sale,KOREA KING                          ,"4719 SO 96TH ST
+OMAHA, NE
+(41.21143785818628, -96.06211279036137)"
+I     ,Beer/liquor on sale,LA CASITA TAQUERIA Y RESTAURANT     ,"1328 PARK AVE
+OMAHA, NE
+(41.245986476077576, -95.95574243934817)"
+I     ,Beer/liquor on sale,LA COSTA EL SOL                     ,"4456 SO 84TH STREET
+OMAHA, NE
+(41.215272253225386, -96.0431732143542)"
+I     ,Beer/liquor on sale,LOUIS M'S                           ,"1718 VINTON ST
+OMAHA, NE
+(41.233629791395, -95.93939276485554)"
+I     ,Beer/liquor on sale,LA CONCORDIA RESTAURANT             ,"2102 Q STREET
+OMAHA, NE
+(41.205652746522276, -95.94302411342896)"
+I     ,Beer/liquor on sale,LATINO RESTAURANT                   ,"10841 Q STREET
+OMAHA, NE
+(41.205292154251765, -96.0835630793726)"
+I     ,Beer/liquor on sale,LOTHROP SOCIAL HALL                 ,"3232 NO 24TH ST
+OMAHA, NE
+(41.288857157214295, -95.94700102922337)"
+I     ,Beer/liquor on sale,LONE STAR STEAKHOUSE & SALOON       ,"17501 CENTER ROAD
+OMAHA, NE
+(41.23403470624914, -96.18865758638997)"
+I     ,Beer/liquor on sale,MAHOGANY PRIME STEAKHOUSE           ,"13665 CALIFORNIA ST
+OMAHA, NE
+(41.26581652682364, -96.12843924863466)"
+I     ,Beer/liquor on sale,MAGNOLIA HOTEL                      ,"1615 HOWARD STREET
+OMAHA, NE
+(41.25549230992726, -95.93816968689566)"
+I     ,Beer/liquor on sale,MAI THAI                            ,"14618 CENTER RD
+OMAHA, NE
+(41.23401195490443, -96.14306003269428)"
+I     ,Beer/liquor on sale,MATSU SUSHI                         ,"1009 FARNAM STREET
+OMAHA, NE
+(41.25755175737436, -95.92979699880289)"
+I     ,Beer/liquor on sale,MILLARD ROADHOUSE                   ,"13325 MILLARD AVE
+OMAHA, NE
+(41.21031037117524, -96.12325016052563)"
+I     ,Beer/liquor on sale,MIMI'S CAFE                         ,"301 175TH PLAZA
+OMAHA, NE
+(41.260973160757494, -96.18761924081367)"
+I     ,Beer/liquor on sale,MIRACLE HILL GOLF AND TENNIS CENTER ,"1516 115 PLZ
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,NITE HAWKES CAFE                    ,"4825 NO 16TH ST
+OMAHA, NE
+(41.30319235036137, -95.93733331740845)"
+I     ,Beer/liquor on sale,NOODLES & COMPANY 7101              ,"203 72 STREET
+OMAHA, NE
+(41.26134488977287, -96.02382246227069)"
+I     ,Beer/liquor on sale,NATURAL KIND CAFE                   ,"302 SO 38TH ST
+OMAHA, NE
+(41.25750679127293, -95.96900743928035)"
+I     ,Beer/liquor on sale,OUTBACK STEAKHOUSE                  ,"7605 CASS STREET
+OMAHA, NE
+(41.263289431921294, -96.03194199489076)"
+I     ,Beer/liquor on sale,NEWMAN'S PASTA CAFE                 ,"2559 171ST CT
+OMAHA, NE
+(41.2354486189313, -96.18363202248818)"
+I     ,Beer/liquor on sale,NORTH STAR BAR                      ,"8509 30TH ST
+OMAHA, NE
+(41.337297785931376, -95.96060910772597)"
+I     ,Beer/liquor on sale,O J'S CAFE                          ,"9201 NO 30TH ST
+OMAHA, NE
+(41.343895665407445, -95.96257728677085)"
+I     ,Beer/liquor on sale,OUTBACK STEAKHOUSE                  ,"2414 132 STREET
+OMAHA, NE
+(41.23643409906949, -96.11958774370046)"
+I     ,Beer/liquor on sale,OLIVE GARDEN ITALIAN 1302           ,"7505 DODGE STREET
+OMAHA, NE
+(41.25968315058378, -96.02910013727819)"
+I     ,Beer/liquor on sale,OLD CHICAGO                         ,"2643 144 STREET
+OMAHA, NE
+(41.28316342524609, -96.13875066317448)"
+I     ,Beer/liquor on sale,OLD CHICAGO                         ,"1109 11 HARNEY ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,OLD CHICAGO                         ,"425 78 STREET
+OMAHA, NE
+(41.26281952563678, -96.03733596400184)"
+I     ,Beer/liquor on sale,OMAHA CIVIC AUDITORIUM              ,"1804 CAPITOL AVENUE
+OMAHA, NE
+(41.260672404816034, -95.94058886315452)"
+I     ,Beer/liquor on sale,OMAHA COUNTRY CLUB                  ,"6900 COUNTRY CLUB RD
+OMAHA, NE
+(41.32775283498154, -96.0190726966515)"
+I     ,Beer/liquor on sale,ORPHEUM THEATRE                     ,"409 16 STREET
+OMAHA, NE
+(41.26276215432065, -95.93703604777622)"
+I     ,Beer/liquor on sale,PAPA CHRIS'S CHICAGO ORIGINALS      ,"7024 MAPLE STREET
+OMAHA, NE
+(41.28506201825064, -96.02125804918268)"
+I     ,Beer/liquor on sale,OUR LADY OF GUADALUPE CHURCH        ,"5005 SO 23RD ST
+OMAHA, NE
+(41.20820343562089, -95.94548558570978)"
+I     ,Beer/liquor on sale,P F CHANG'S CHINA BISTRO            ,"10150 CALIFORNIA ST
+OMAHA, NE
+(41.264092311708566, -96.07009426469654)"
+I     ,Beer/liquor on sale,PIPELINE                            ,"1300 72 STREET
+OMAHA, NE
+(41.27150940726365, -96.02393981832898)"
+I     ,Beer/liquor on sale,PACIFIC SPRINGS GOLF CLUB           ,"16810 HARNEY STREET
+OMAHA, NE
+(41.2558503350902, -96.17726978647595)"
+I     ,Beer/liquor on sale,"PIZZA PLACE, THE                    ","1904 168TH ST
+OMAHA, NE
+(41.276715969202655, -96.17730512619288)"
+I     ,Beer/liquor on sale,PIZZA HUT                           ,"4925 L STREET
+OMAHA, NE
+(41.21252270336731, -95.989161245957)"
+I     ,Beer/liquor on sale,PIZZA HUT                           ,"13838 R PLAZA
+OMAHA, NE
+(41.204581689848624, -96.13052567574266)"
+I     ,Beer/liquor on sale,PETROW'S RESTAURANT                 ,"5914 CENTER STREET
+OMAHA, NE
+(41.23786559815301, -96.0040090526607)"
+I     ,Beer/liquor on sale,PLATTEVIEW COUNTRY CLUB             ,"4215 PLATTEVIEW RD
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,"PLAYERS CLUB GOLF COURSE, THE       ","12101 DEER CREEK DR
+OMAHA, NE
+(41.32751156258802, -96.10200619053968)"
+I     ,Beer/liquor on sale,PANDA HOUSE CHINESE RESTAURANT      ,"14459 CENTER ROAD
+OMAHA, NE
+(41.2337293940615, -96.13995525136897)"
+I     ,Beer/liquor on sale,PRAIRIE LIFE CENTER                 ,"8525 Q STREET
+OMAHA, NE
+(41.20532812713293, -96.04501813719679)"
+I     ,Beer/liquor on sale,RUBY TUESDAY                        ,"10311 PACIFIC STREET
+OMAHA, NE
+(41.24865659904577, -96.07353176059632)"
+I     ,Beer/liquor on sale,RUBY TUESDAY                        ,"16831 LAKESIDE PLAZA
+OMAHA, NE
+(41.23746787001396, -96.1774616096195)"
+I     ,Beer/liquor on sale,ROOKIES BAR AND GRILL               ,"1702 120 STREET
+OMAHA, NE
+(41.242786108041216, -96.10076394498749)"
+I     ,Beer/liquor on sale,RIVER CITY LIFE CENTER              ,"2275 132 STREET
+OMAHA, NE
+(41.2373212866452, -96.11943716605543)"
+I     ,Beer/liquor on sale,RESIDENCE INN OMAHA                 ,"6990 DODGE ST
+OMAHA, NE
+(41.25969300726291, -96.02043393215547)"
+I     ,Beer/liquor on sale,RED LOBSTER RESTAURANT 0414         ,"2707 140 STREET
+OMAHA, NE
+(41.233733476680044, -96.13380344779655)"
+I     ,Beer/liquor on sale,ROLLING RIVER                       ,"151 FREEDOM PARK RD
+OMAHA, NE
+(41.273078640260714, -95.91915881490796)"
+I     ,Beer/liquor on sale,ROMA'S PIZZA & SUBS                 ,"2647 159 PLAZA
+OMAHA, NE
+(41.234712714482995, -96.1637954007419)"
+I     ,Beer/liquor on sale,ROMEO'S MEXICAN FOOD & PIZZA        ,"9555 L ST
+OMAHA, NE
+(41.21242377794408, -96.06086419135306)"
+I     ,Beer/liquor on sale,RAMADA LIMITED                      ,"9505 SO 142ND ST
+OMAHA, NE
+(41.16490360191591, -96.13697381469274)"
+I     ,Beer/liquor on sale,SUSHI JAPAN/YAKINIKU BOY            ,"14134 CENTER ROAD
+OMAHA, NE
+(41.23424377568864, -96.13672088156507)"
+I     ,Beer/liquor on sale,SIZZLER 117                         ,"5132 L STREET
+OMAHA, NE
+(41.21252270336731, -95.99542052728088)"
+I     ,Beer/liquor on sale,SIZZLER 485                         ,"14323 ARBOR STREET
+OMAHA, NE
+(41.23569823206236, -96.13792709604377)"
+I     ,Beer/liquor on sale,SIZZLERS 413                        ,"2822 88 STREET
+OMAHA, NE
+(41.28414429100171, -96.04885025940177)"
+I     ,Beer/liquor on sale,SAIGON SURFACE                      ,"324 14 STREET
+OMAHA, NE
+(41.26188955418999, -95.93448664291552)"
+I     ,Beer/liquor on sale,SCHMIDLEY'S DRIVING RANGE           ,"4700 120 STREET
+OMAHA, NE
+(41.212215157366224, -96.10093018555149)"
+I     ,Beer/liquor on sale,SAIGON RESTAURANT                   ,"12100 CENTER RD
+OMAHA, NE
+(41.23414909938711, -96.10197548382024)"
+I     ,Beer/liquor on sale,SAKURABANA JAPANESE RESTAURANT      ,"7425 DODGE STREET
+OMAHA, NE
+(41.25968315058378, -96.02856054406061)"
+I     ,Beer/liquor on sale,STOKES GRILL & BAR                  ,"646 114 STREET
+OMAHA, NE
+(41.26542293222148, -96.091062265147)"
+I     ,Beer/liquor on sale,SIDE DOOR LOUNGE                    ,"3530 LEAVENWORTH ST
+OMAHA, NE
+(41.25243547848646, -95.96449742923564)"
+I     ,Beer/liquor on sale,STILES PUBLIC HOUSE                 ,"1204 HOWARD STREET
+OMAHA, NE
+(41.255502166606334, -95.93194521303012)"
+I     ,Beer/liquor on sale,SALGADO'S MEXICAN GRILL             ,"5402 90TH ST
+OMAHA, NE
+(41.20346705698979, -96.05246531623162)"
+I     ,Beer/liquor on sale,SOUTHERN BOYS                       ,"2414 PATRICK AVE
+OMAHA, NE
+(41.27831710303093, -95.94774746650774)"
+I     ,Beer/liquor on sale,SULLIVAN'S STEAKHOUSE               ,"222 15 STREET
+OMAHA, NE
+(41.258382321618626, -95.93589538360366)"
+I     ,Beer/liquor on sale,SHELTERBELT THEATRE                 ,"3225 CALIFORNIA ST
+OMAHA, NE
+(41.26476432004938, -95.9610304528805)"
+I     ,Beer/liquor on sale,SMASHBURGER                         ,"7204 JONES STREET
+OMAHA, NE
+(41.254369020849424, -96.02397773786905)"
+I     ,Beer/liquor on sale,SHANG-HAI GARDEN                    ,"3118 24 STREET
+OMAHA, NE
+(41.2303447985101, -95.94712253130577)"
+I     ,Beer/liquor on sale,SAM & LOUIE'S                       ,"2949 204 ST
+OMAHA, NE
+(41.28514181615319, -96.23433378524992)"
+I     ,Beer/liquor on sale,SAM & LOUIE'S                       ,"7641 CASS STREET
+OMAHA, NE
+(41.26323460914074, -96.03291579879506)"
+I     ,Beer/liquor on sale,SAM & LOUIE'S NYP                   ,"2416 2418 CUMING ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,SAM & LOUIE'S NEW YORK PIZZERIA     ,"2062 117 AVENUE
+OMAHA, NE
+(41.27828630249482, -96.09830075432211)"
+I     ,Beer/liquor on sale,SUMMER KITCHEN CAFE & BAKERY        ,"3685 129TH STREET
+OMAHA, NE
+(41.29209712642772, -96.11508547964476)"
+I     ,Beer/liquor on sale,SURFSIDE CLUB                       ,"14445 NO RIVER DR
+OMAHA, NE
+(41.389851021104676, -95.94563405973884)"
+I     ,Beer/liquor on sale,THAI PEPPER RESTAURANT              ,"631 114 STREET
+OMAHA, NE
+(41.265131931979646, -96.09093473797078)"
+I     ,Beer/liquor on sale,SHAMROCKS PUB & GRILL               ,"5338 103 STREET
+OMAHA, NE
+(41.307104820825735, -96.07386530185617)"
+I     ,Beer/liquor on sale,TIBURON GOLF CLUB                   ,"10302 168 STREET
+OMAHA, NE
+(41.15614444773009, -96.17739853381389)"
+I     ,Beer/liquor on sale,THAI SPICE                          ,"2933 108 STREET
+OMAHA, NE
+(41.232357695730805, -96.08141288015196)"
+I     ,Beer/liquor on sale,THAI SPICE                          ,"555 155 PLAZA
+OMAHA, NE
+(41.263703484793936, -96.15638394260911)"
+I     ,Beer/liquor on sale,TAXI'S                              ,"1822 120 STREET
+OMAHA, NE
+(41.24189442768951, -96.10076876996068)"
+I     ,Beer/liquor on sale,"TAS'S THAI PEPPER, INC.             ","12775 Q STREET
+OMAHA, NE
+(41.205184235608215, -96.11401412328468)"
+I     ,Beer/liquor on sale,T.G.I. FRIDAYS                      ,"10000 CALIFORNIA ST
+OMAHA, NE
+(41.264523028662666, -96.06701102755102)"
+I     ,Beer/liquor on sale,"TAJ II, THE                         ","654 114 STREET
+OMAHA, NE
+(41.26556567202627, -96.09105051010425)"
+I     ,Beer/liquor on sale,TASTE OF THAILAND                   ,"15712 CENTER RD
+OMAHA, NE
+(41.23409126885355, -96.16047209751503)"
+I     ,Beer/liquor on sale,TWISTED FORK                        ,"1014 HOWARD STREET
+OMAHA, NE
+(41.25544734382578, -95.92996786998845)"
+I     ,Beer/liquor on sale,TENNIS CLUB & SOCCER CENTER         ,"4718 NO 120TH ST
+OMAHA, NE
+(41.30284161476993, -96.10065919114959)"
+I     ,Beer/liquor on sale,TANDURI FUSION INDIAN RESTAURANT    ,"2537 174 PLAZA
+OMAHA, NE
+(41.23586236249515, -96.1871325982124)"
+I     ,Beer/liquor on sale,TRINI'S                             ,"1020 HOWARD STREET
+OMAHA, NE
+(41.255502166606334, -95.92954069938651)"
+I     ,Beer/liquor on sale,UPSTREAM BREWING COMPANY            ,"514 11 STREET
+OMAHA, NE
+(41.25527300383755, -95.93060736652204)"
+I     ,Beer/liquor on sale,VIVACE                              ,"1108 1110 HOWARD ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,VIETNAMESE ASIAN RESTAURANT         ,"7212 JONES STREET
+OMAHA, NE
+(41.254369020849424, -96.02401722593675)"
+I     ,Beer/liquor on sale,VETERANS F W BENSON 2503            ,"8900 04 MILITARY AVE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,VALENTINO'S                         ,"5022 24 SO 108TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,VINCENZO'S RISTORANTE               ,"1814 22 N 144 STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,VINCENZO'S RISTORANTE               ,"1205 1207 HARNEY ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,WAVE BISTRO                         ,"4002 144TH ST
+OMAHA, NE
+(41.294380344519396, -96.13892122643767)"
+I     ,Beer/liquor on sale,WESTWOOD HEIGHTS GOLF COURSE        ,"12929 CENTER ROAD
+OMAHA, NE
+(41.23394369064647, -96.11453968707862)"
+I     ,Beer/liquor on sale,WESTERN BOWL                        ,"4725 SO 131ST ST
+OMAHA, NE
+(41.211587408456865, -96.1181240249586)"
+I     ,Beer/liquor on sale,WINGSTOP                            ,"11983 BLONDO STREET
+OMAHA, NE
+(41.27763361828863, -96.09963396403617)"
+I     ,Beer/liquor on sale,WONG'S HUNAN GARDEN                 ,"5050 108TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,ZIO'S PIZZERIA                      ,"7834 DODGE RD
+OMAHA, NE
+(41.259769221282, -96.03606693462731)"
+I     ,Beer/liquor on sale,ZIO'S PIZZERIA                      ,"12997 CENTER RD
+OMAHA, NE
+(41.23397759864564, -96.11709054304185)"
+I     ,Beer/liquor on sale,ZIO'S PIZZERIA                      ,"1109 HOWARD STREET
+OMAHA, NE
+(41.25539252104522, -95.93067458665084)"
+I     ,Beer/liquor on sale,ZESTO'S                             ,"3901 13 STREET
+OMAHA, NE
+(41.22289575344987, -95.93326743975116)"
+I     ,Beer/liquor on sale,11-WORTH CAFE                       ,"2419 LEAVENWORTH ST
+OMAHA, NE
+(41.25241662858707, -95.94798129023536)"
+I     ,Beer/liquor on sale,Unknown,"415 13TH STREET
+OMAHA, NE
+(41.26298683661664, -95.93307677886972)"
+IB    ,Liquor on sale/Beer off sale,CHAMPIONS RUN                       ,"13800 EAGLE RUN RD
+OMAHA, NE
+(41.286401621567606, -96.1279376291766)"
+IB    ,Liquor on sale/Beer off sale,FORGOT STORE                        ,"11909 CALHOUN RD
+OMAHA, NE
+(41.3676925553717, -95.9832906040058)"
+IB    ,Liquor on sale/Beer off sale,OPPERMANS PUB                       ,"14457 F STREET
+OMAHA, NE
+(41.21953535455064, -96.13950066688427)"
+IB    ,Liquor on sale/Beer off sale,STONE CREEK GOLF COURSE             ,"6220 NO 160TH AVE
+OMAHA, NE
+(41.314907465225446, -96.16423360986562)"
+IBK   ,Catering + Liquor on sale/Beer off sale,ROCK BOTTOM GOLD MEDAL TAP          ,"1101 HARNEY STREET
+OMAHA, NE
+(41.25651753704068, -95.93109202252509)"
+ID    ,Liquor on/off sale,BAG 'N SAVE                         ,"2011 156TH STREET
+OMAHA, NE
+(41.27776561536755, -96.15799331196553)"
+ID    ,Liquor on/off sale,BAKER'S SUPERMARKET 321             ,"505 155 PLAZA
+OMAHA, NE
+(41.26347855630977, -96.1534473062813)"
+ID    ,Liquor on/off sale,CHARLIE'S ON THE LAKE               ,"4150 144 STREET
+OMAHA, NE
+(41.2947979875967, -96.13891943397812)"
+ID    ,Liquor on/off sale,HY VEE 9                            ,"17810 WELCH PLAZA
+OMAHA, NE
+(41.20595765255342, -96.19372103474154)"
+ID    ,Liquor on/off sale,LE VOLTAIRE                         ,"569 155 PLAZA
+OMAHA, NE
+(41.26397799163783, -96.15700540953982)"
+ID    ,Liquor on/off sale,PASTA AMORE & FANTASIA              ,"11027 PRAIRIE BRK RD
+OMAHA, NE
+(41.232948346337025, -96.08469707413624)"
+IDK   ,Catering + liquor on/off sale,HY VEE 10                           ,"3410 156 STREET
+OMAHA, NE
+(41.28893041228445, -96.1582770558938)"
+IDK   ,Catering + liquor on/off sale,TEXAS ROADHOUSE                     ,"520 155 PLAZA
+OMAHA, NE
+(41.263344723003314, -96.15440430808958)"
+IK    ,Catering + liquor on sale,ALUMNI SPORTS CAFE                  ,"602 20 STREET
+OMAHA, NE
+(41.26481677580085, -95.94248653145391)"
+IK    ,Catering + liquor on sale,BEMIS CENTER FOR CONTEMPORARY ART   ,"724 12TH ST
+OMAHA, NE
+(41.25307184896102, -95.93192037435573)"
+IK    ,Catering + liquor on sale,CUNNINGHAMS PUB & GRILLE            ,"2101 120TH ST
+OMAHA, NE
+(41.23949328109383, -96.10063125159496)"
+IK    ,Catering + liquor on sale,EMBASSY SUITES DOWNTOWN/OLD MARKET  ,"555 SO 10TH ST
+OMAHA, NE
+(41.25479083874444, -95.9292574055853)"
+IK    ,Catering + liquor on sale,ERIN COURT INC                      ,"4714 120TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+IK    ,Catering + liquor on sale,FELIX HALL                          ,"2226 N STREET
+OMAHA, NE
+(41.20969883219533, -95.94516641228364)"
+IK    ,Catering + liquor on sale,TWIN PEAKS                          ,"17330 CENTER ROAD
+OMAHA, NE
+(41.23426281228724, -96.1858093146947)"
+IK    ,Catering + liquor on sale,FAMOUS DAVE'S - EAGLE RUN           ,"13015 BIRCH DRIVE
+OMAHA, NE
+(41.29186089279216, -96.1164962520856)"
+IK    ,Catering + liquor on sale,GUACA MAYA                          ,"5002 33 STREET
+OMAHA, NE
+(41.20888290443318, -95.96307071952697)"
+IK    ,Catering + liquor on sale,HOOTERS OF OMAHA                    ,"12405 CENTER RD
+OMAHA, NE
+(41.23393469742615, -96.10731467974979)"
+IK    ,Catering + liquor on sale,HOMESTEAD CAFE                      ,"4826 Q STREET
+OMAHA, NE
+(41.205372653228956, -95.98789605555234)"
+IK    ,Catering + liquor on sale,HEARTLAND CAFE AND CATERING         ,"2615 MAIN STREET
+OMAHA, NE
+(41.282503719457985, -96.23701751409698)"
+IK    ,Catering + liquor on sale,JOSLYN ART MUSEUM                   ,"2200 DODGE STREET
+OMAHA, NE
+(41.25977308278675, -95.94560708007799)"
+IK    ,Catering + liquor on sale,JONES BROS. CUPCAKES/CAFE           ,"2121 67TH ST
+OMAHA, NE
+(41.2397451716493, -96.01455992744326)"
+IK    ,Catering + liquor on sale,KIEWIT FITNESS CENTER/STUDENT CTR   ,"2400 CASS STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+IK    ,Catering + liquor on sale,OMAHA ZOOLOGICAL SOCIETY            ,"3701 10 STREET
+OMAHA, NE
+(41.22729437018214, -95.9293557846031)"
+IK    ,Catering + liquor on sale,"RENAISSANCE MANSION, THE            ","401 39 STREET
+OMAHA, NE
+(41.26229272638005, -95.97166764219627)"
+IK    ,Catering + liquor on sale,SWEET CAKES AND ROSES               ,"14040 ARBOR STREET
+OMAHA, NE
+(41.23593205578999, -96.13556187910672)"
+IK    ,Catering + liquor on sale,1316 JONES STREET                   ,"1316 JONES STREET
+OMAHA, NE
+(41.25337077339691, -95.9335133222832)"
+L     ,Craft brewery,GRANITE CITY FOOD & BREWERY         ,"1001 102 STREET
+OMAHA, NE
+(41.267731298546124, -96.07140824982702)"
+L     ,Craft brewery,"JAIPUR, THE                         ","10922 ELM STREET
+OMAHA, NE
+(41.232756322218286, -96.08287530953709)"
+L     ,Craft brewery,LAZLO'S BREWERY & GRILL - OMAHA     ,"2425 192 AVENUE
+OMAHA, NE
+(41.23844931725769, -96.21618076887589)"
+L     ,Craft brewery,UPSTREAM BREWING COMPANY            ,"514 11 STREET
+OMAHA, NE
+(41.25527300383755, -95.93060736652204)"
+L     ,Craft brewery,UPSTREAM BREWING COMPANY            ,"17070 WRIGHT PLAZA
+OMAHA, NE
+(41.23305422529626, -96.1814362958213)"
+O     ,Boat,ROLLING RIVER                       ,"151 FREEDOM PARK RD
+OMAHA, NE
+(41.273078640260714, -95.91915881490796)"
+W     ,Wholesale beer,JOHNSON BROTHERS OF NEBRASKA        ,"9320 J STREET
+OMAHA, NE
+(41.21421342878239, -96.05625066934277)"
+W     ,Wholesale beer,HOUSE OF BEERS WHOLESALE            ,"3314 88 PLAZA
+OMAHA, NE
+(41.28864842175982, -96.04948746735066)"
+W     ,Wholesale beer,PREMIER MIDWEST BEVERAGE CO         ,"10367 134 STREET
+OMAHA, NE
+(41.156484739145014, -96.12352732418289)"
+W     ,Wholesale beer,QUALITY BRANDS OF OMAHA             ,"13255 CENTECH RD
+OMAHA, NE
+(41.17901396455562, -96.1212266859597)"
+W     ,Wholesale beer,REPUBLIC NATIONAL DISTRIBUTING CO   ,"4444 94 STREET
+OMAHA, NE
+(41.21533047035813, -96.05878940981547)"
+W     ,Wholesale beer,REPUBLIC NATIONAL DIST CO (EAGLE)   ,"4320 94 STREET
+OMAHA, NE
+(41.217120010984786, -96.05881967040514)"
+W     ,Wholesale beer,STERLING DISTRIBUTING               ,"4433 96 STREET
+OMAHA, NE
+(41.21556520904083, -96.06222105409229)"
+X     ,Wholesale liquor,JOHNSON BROTHERS OF NEBRASKA        ,"9320 J STREET
+OMAHA, NE
+(41.21421342878239, -96.05625066934277)"
+X     ,Wholesale liquor,HOUSE OF BEERS WHOLESALE            ,"3314 88 PLAZA
+OMAHA, NE
+(41.28864842175982, -96.04948746735066)"
+X     ,Wholesale liquor,PREMIER MIDWEST BEVERAGE COMPANY    ,"10367 134 STREET
+OMAHA, NE
+(41.156484739145014, -96.12352732418289)"
+X     ,Wholesale liquor,QUALITY BRANDS OF OMAHA             ,"13255 CENTECH ROAD
+OMAHA, NE
+(41.17901396455562, -96.1212266859597)"
+X     ,Wholesale liquor,QUAIL DISTRIBUTING                  ,"10425 J ST
+OMAHA, NE
+(41.21423141522297, -96.07581991670031)"
+X     ,Wholesale liquor,REPUBLIC NATIONAL DISTRIBUTING CO   ,"4444 94 STREET
+OMAHA, NE
+(41.21533047035813, -96.05878940981547)"
+X     ,Wholesale liquor,REPUBLIC NATIONAL DIST CO (EAGLE)   ,"4320 94 STREET
+OMAHA, NE
+(41.217120010984786, -96.05881967040514)"
+X     ,Wholesale liquor,STERLING DISTRIBUTING               ,"4433 96 STREET
+OMAHA, NE
+(41.21556520904083, -96.06222105409229)"
+X     ,Wholesale liquor,SOUTHERN WINE & SPIRITS             ,"3337 88 PLAZA
+OMAHA, NE
+(41.28888058043749, -96.04944560227368)"
+X     ,Wholesale liquor,SYNERGY FINE WINES                  ,"13816 C PLAZA
+OMAHA, NE
+(41.22263108297665, -96.12859213337964)"
+A     ,Beer on sale,GODFATHER'S PIZZA                   ,"2929 204TH STREET
+OMAHA, NE
+(41.28497274361329, -96.23434068616992)"
+C     ,Beer/liquor on/off sale,OMAHA PRIME RESTAURANT              ,"415 SO 11TH ST
+OMAHA, NE
+(41.256342065925594, -95.93046903523997)"
+C     ,Beer/liquor on/off sale,WINESTYLES                          ,"16811 BURKE STREET
+OMAHA, NE
+(41.25929638408231, -96.17801729944829)"
+C     ,Beer/liquor on/off sale,DUBLINER PUB                        ,"1205 HARNEY ST
+OMAHA, NE
+(41.25646333102118, -95.9319368298614)"
+I     ,Beer/liquor on sale,RED ROBIN AMERICA'S GOURMET BURGERS ,"14455 MAPLE RD
+OMAHA, NE
+(41.29203090051891, -96.14006064761335)"
+C     ,Beer/liquor on/off sale,VARSITY SPORTS CAFE &               ,"14529 F STREET
+OMAHA, NE
+(41.2195823812973, -96.14067002823316)"
+C     ,Beer/liquor on/off sale,OMAHA PRESS CLUB                    ,"1620 DODGE
+OMAHA, NE
+(41.259714973717024, -95.93745634571812)"
+I     ,Beer/liquor on sale,RED ROBIN AMERICA'S GOURMET BURGERS ,"2627 180 STREET
+OMAHA, NE
+(41.23604021318402, -96.19608678633281)"
+I     ,Beer/liquor on sale,CUT TIME BAR & GRILL                ,"3346 108TH ST
+OMAHA, NE
+(41.22846099797007, -96.08161249927535)"
+C     ,Beer/liquor on/off sale,"STADIUM CLUB, THE                   ","418 10TH STREET
+OMAHA, NE
+(41.26284944650088, -95.9294832229678)"
+C     ,Beer/liquor on/off sale,RIGEL AIRPORT SERVICES              ,"4501 ABBOTT DR
+OMAHA, NE
+(41.29515750647259, -95.90063127411452)"
+C     ,Beer/liquor on/off sale,DOUBLETREE GUEST SUITES             ,"7270 CEDAR STREET
+OMAHA, NE
+(41.24023081509006, -96.02540392373777)"
+CK    ,Catering + liquor on/off sale,D J'S DUGOUT                        ,"1003 CAPTIOL Ave
+OMAHA, NE
+(41.26055418944929, -95.92925836723995)"
+D     ,Beer/liquor off sale,AB'S 66                             ,"4926 UNDERWOOD AVENUE
+OMAHA, NE
+(41.2650790827596, -95.99006956120655)"
+I     ,Beer/liquor on sale,CHARLESTON'S                        ,"13851 FIRST NATIONAL BANK PARKWAY
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,FUDDRUCKERS                         ,"16920 WRIGHT PLAZA
+OMAHA, NE
+(41.23303544714501, -96.17831936612394)"
+I     ,Beer/liquor on sale,OLD CHICAGO                         ,"13110 BIRCH DRIVE
+OMAHA, NE
+(41.290439963985875, -96.11843878766888)"
+I     ,Beer/liquor on sale,SHUCKS FISH HOUSE                   ,"16901 WRIGHT PLAZA
+OMAHA, NE
+(41.23306321851652, -96.1785224924464)"
+D     ,Beer/liquor off sale,CINCO ASES                          ,"3302 Q STREET
+OMAHA, NE
+(41.205454032217006, -95.96297298846378)"
+C     ,Beer/liquor on/off sale,"ECLIPSE TAVERN, THE                 ","1201 157TH STREET
+OMAHA, NE
+(41.24535846625608, -96.15990557449133)"
+I     ,Beer/liquor on sale,BURGER STAR                         ,"1222 71 STREET
+OMAHA, NE
+(41.247483802749684, -96.02241914444785)"
+C     ,Beer/liquor on/off sale,"BOILER ROOM, THE                    ","1110 JONES STREET
+OMAHA, NE
+(41.25338875983749, -95.93072335735317)"
+W     ,Wholesale beer,DILORENZO-PENKE                     ,"5711 60 STREET
+OMAHA, NE
+(41.31055424726815, -96.00449364580582)"
+X     ,Wholesale liquor,DILORENZO-PENKE                     ,"5711 60 STREET
+OMAHA, NE
+(41.31055424726815, -96.00449364580582)"
+CK    ,Catering + liquor on/off sale,HY VEE 2                            ,"14591 STONY BROOK BLVD
+OMAHA, NE
+(41.199356535301945, -96.14438427097373)"
+D     ,Beer/liquor off sale,HY VEE GAS 2                        ,"14405 STONEY BROOK BOULEVARD
+OMAHA, NE
+(41.19813355089849, -96.13971674688207)"
+IK    ,Catering + liquor on sale,SAGE BISTRO                         ,"5300 30 STREET
+OMAHA, NE
+(41.20446856532261, -95.9578205230487)"
+I     ,Beer/liquor on sale,GODFATHER'S PIZZA #28034            ,"2117 67TH ST
+OMAHA, NE
+(41.23976416902083, -96.01455950527945)"
+C     ,Beer/liquor on/off sale,"OBSERVATORY LOUNGE, THE             ","2810 148 AVENUE CIRCLE
+OMAHA, NE
+(41.23272728310252, -96.14760381310639)"
+C     ,Beer/liquor on/off sale,BAG 'N SAVE                         ,"3003 108TH STREET
+OMAHA, NE
+(41.23185992530359, -96.08143117785484)"
+C     ,Beer/liquor on/off sale,BAG 'N SAVE                         ,"5110 108TH STREET
+OMAHA, NE
+(41.206129910744856, -96.0815621625975)"
+C     ,Beer/liquor on/off sale,QUALITY INN & SUITES                ,"11515 MIRACLE HILLS DRIVE
+OMAHA, NE
+(41.26813677765921, -96.09482259117942)"
+C     ,Beer/liquor on/off sale,OAK HILLS COUNTRY CLUB              ,"12325 GOLFING GREEN DRIVE
+OMAHA, NE
+(41.19606359681204, -96.10549717408628)"
+C     ,Beer/liquor on/off sale,PERRY'S PLACE                       ,"9652 MOCKINGBIRD DRIVE
+OMAHA, NE
+(41.20902434067335, -96.06448845913116)"
+I     ,Beer/liquor on sale,ELKHORN RIDGE GOLF COURSE           ,"20033 ELKHORN RIDGE DRIVE
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,HIRO SUSHI                          ,"3655 129TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,ROJA MEXICAN GRILL & MARGARITA BAR  ,"1212 HARNEY STREET
+OMAHA, NE
+(41.25657366283739, -95.93204533433486)"
+CK    ,Catering + liquor on/off sale,OSCAR'S                             ,"17330 LAKESIDE HILLS
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+C     ,Beer/liquor on/off sale,RIVERA'S MEXICAN FOOD               ,"12047 49 BLONDO ST
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,MILLARD PLAZA BALLROOM              ,"5339 139TH PLAZA
+OMAHA, NE
+(41.203286530080256, -96.13096538722768)"
+C     ,Beer/liquor on/off sale,ROMEO'S PIZZA                       ,"2218 90th Plaza
+OMAHA, NE
+(41.27814312209702, -96.05335671376025)"
+IK    ,Catering + liquor on sale,HOLLAND PERFORMING ART CENTER       ,"1200 DOUGLAS STREET
+OMAHA, NE
+(41.25863094380952, -95.9328816733634)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 320             ,"17370 LAKESIDE HILLS PLAZA
+OMAHA, NE
+(41.235583988825105, -96.18645123272648)"
+D     ,Beer/liquor off sale,WALGREENS #06802                    ,"15525 SPAULDING PLAZA
+OMAHA, NE
+(41.29368651651163, -96.15723554001283)"
+I     ,Beer/liquor on sale,OLIVE GARDEN ITALIAN 1586           ,"16929 LAKESIDE HILL PLAZA
+OMAHA, NE
+(41.23496978121864, -96.17907107888425)"
+C     ,Beer/liquor on/off sale,TUSSEY'S CASUAL GRILL               ,"9229 MORMON BRIDGE PLAZA
+OMAHA, NE
+(41.34300099702363, -95.98304004710015)"
+I     ,Beer/liquor on sale,ESPANA RESTAURANT                   ,"6064 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.00673399840952)"
+C     ,Beer/liquor on/off sale,ELKHORN FRATERNAL ORDER 3943        ,"20275 WIRT STREET
+OMAHA, NE
+(41.28660703773189, -96.23082563715202)"
+CK    ,Catering + liquor on/off sale,BIG DOG'S BEVERAGE                  ,"20310 WIRT STREET
+OMAHA, NE
+(41.286611120485944, -96.2328567350756)"
+D     ,Beer/liquor off sale,WALGREENS #07693                    ,"225 SADDLE CREEK RD
+OMAHA, NE
+(41.260856765832045, -95.98038287842598)"
+C     ,Beer/liquor on/off sale,JERICO'S RESTAURANT                 ,"11732 DODGE RD
+OMAHA, NE
+(41.26345224505589, -96.09658414000751)"
+C     ,Beer/liquor on/off sale,BAKER'S SUPERMARKET 319             ,"888 SADDLE CREEK ROAD
+OMAHA, NE
+(41.250530456732804, -95.98664638612316)"
+C     ,Beer/liquor on/off sale,NO FRILLS SUPERMARKETS              ,"820 SADDLE CREEK ROAD
+OMAHA, NE
+(41.251635333630325, -95.9857747805726)"
+CK    ,Catering + liquor on/off sale,CORKSCREW                           ,"10924 PRAIRIE BROOK ROAD
+OMAHA, NE
+(41.23326187087962, -96.08293616211914)"
+D     ,Beer/liquor off sale,QUIKTRIP 594                        ,"715 SADDLECRREEK ROAD
+OMAHA, NE
+(41.25313280757582, -95.98445678007425)"
+D     ,Beer/liquor off sale,TOBACCO ROAD DISCOUNTS              ,"1414 SADDLE CREEK ROAD
+OMAHA, NE
+(41.24540162897449, -95.99020488851664)"
+X     ,Wholesale liquor,PLATINUM WINE DISTRIBUTING          ,"10912 PRAIRIE BROOK ROAD
+OMAHA, NE
+(41.2332735651106, -96.08283237581924)"
+I     ,Beer/liquor on sale,PANDA HOUSE CHINESE RESTAURANT      ,"301 16 STREET
+OMAHA, NE
+(41.26164636549086, -95.93705274650866)"
+C     ,Beer/liquor on/off sale,JACKSON ST TAVERN                   ,"1125 JACKSON ST
+OMAHA, NE
+(41.254377150610935, -95.93161362930209)"
+I     ,Beer/liquor on sale,801 CHOPHOUSE                       ,"1403 FARNAM STREET
+OMAHA, NE
+(41.257542764154095, -95.93522890385987)"
+I     ,Beer/liquor on sale,GRAND FORTUNE CHINESE CUISINE       ,"17330 CENTER RD
+OMAHA, NE
+(41.23426281228724, -96.1858093146947)"
+I     ,Beer/liquor on sale,WASABI SUSHI                        ,"14513 MAPLE RD
+OMAHA, NE
+(41.292029961660496, -96.14124118574453)"
+CCB   ,Cigar bar + liquor on/off sale,CIGARROS                            ,"13110 BIRCH DR
+OMAHA, NE
+(41.290439963985875, -96.11843878766888)"
+CK    ,Catering + liquor on/off sale,PLEASURE YOUR PALATE                ,"14505 GROVER ST
+OMAHA, NE
+(41.22421496342703, -96.14037412044225)"
+I     ,Beer/liquor on sale,DANTE PIZZERIA NAPOLETANA           ,"16901 WRIGHT PLAZA
+OMAHA, NE
+(41.23306321851652, -96.1785224924464)"
+I     ,Beer/liquor on sale,PARTY COVE                          ,"3525 147TH ST
+OMAHA, NE
+(41.29096051260193, -96.14352360202753)"
+C     ,Beer/liquor on/off sale,PARILAMENT PUB MIDTOWN              ,"120 SO 31ST AVE
+OMAHA, NE
+(41.25929595643524, -95.9592227781842)"
+I     ,Beer/liquor on sale,MARCUS MIDTOWN CINEMA               ,"3201 FARNAM ST
+OMAHA, NE
+(41.2576588125591, -95.96042790712082)"
+CK    ,Catering + liquor on/off sale,DANTE PIZZERIA NAPOLETANA           ,"16901 WRIGHT PLAZA
+OMAHA, NE
+(41.23306321851652, -96.1785224924464)"
+CK    ,Catering + liquor on/off sale,HY VEE 7                            ,"3505 L STREET
+OMAHA, NE
+(41.21225290675852, -95.96579685963576)"
+CK    ,Catering + liquor on/off sale,OLYMPIC LOUNGE/WHISKEY TANGO        ,"1419 FARNAM STREET
+OMAHA, NE
+(41.257542764154095, -95.93558863267157)"
+I     ,Beer/liquor on sale,DOC AND EDDIE'S BBQ                 ,"6610 168TH STREET
+OMAHA, NE
+(41.31770033988869, -96.17750621333653)"
+IK    ,Catering + liquor on sale,ROJA MEXICAN GRILL & MARGARITA BAR  ,"17010 WRIGHT PLAZA
+OMAHA, NE
+(41.23321703326224, -96.17881674610989)"
+I     ,Beer/liquor on sale,SAM & LOUIE'S NEW YORK PIZZERIA     ,"18010 R PLAZA
+OMAHA, NE
+(41.20385323900484, -96.19747120760377)"
+I     ,Beer/liquor on sale,BABY BLUE SUSHI SAKE GRILL          ,"16939 WRIGHT PLAZA
+OMAHA, NE
+(41.23298589018061, -96.17848790341061)"
+C     ,Beer/liquor on/off sale,RYAN'S BISTRO                       ,"17607 GOLD PLAZA
+OMAHA, NE
+(41.23508669308245, -96.19071729916368)"
+I     ,Beer/liquor on sale,HU HOT MONGOLIAN GRILL              ,"17660 WRIGHT ST
+OMAHA, NE
+(41.232605427740395, -96.19155064824088)"
+C     ,Beer/liquor on/off sale,VOODOO LOUNGE                       ,"304 168TH CIRCLE
+OMAHA, NE
+(41.26095773732218, -96.17712070633968)"
+I     ,Beer/liquor on sale,MAMA'S PIZZA WEST                   ,"15615 PACIFIC STREET
+OMAHA, NE
+(41.24849558453934, -96.1584766044133)"
+I     ,Beer/liquor on sale,"SKYYBOX, THE                        ","6720 168 STREET
+OMAHA, NE
+(41.318880211650885, -96.17751954522085)"
+I     ,Beer/liquor on sale,BUFFALO WILD WINGS GRILL & BAR #72  ,"14615 MAPLE RD
+OMAHA, NE
+(41.29202569299742, -96.14253032199883)"
+I     ,Beer/liquor on sale,BONEFISH GRILL                      ,"120 REGENCY PARKWAY
+OMAHA, NE
+(41.26004155118349, -96.0696409762948)"
+I     ,Beer/liquor on sale,CHEESEBURGER IN PARADISE            ,"17304 DAVENPORT ST
+OMAHA, NE
+(41.26098716752631, -96.18579800766344)"
+I     ,Beer/liquor on sale,WEAVER LOUNGE                       ,"401 16 STREET
+OMAHA, NE
+(41.26267808026424, -95.9370293218517)"
+I     ,Beer/liquor on sale,ZURLO'S BISTRO ITALIANO             ,"13110 BIRCH DR
+OMAHA, NE
+(41.290439963985875, -96.11843878766888)"
+IB    ,Liquor on sale/Beer off sale,ON THE ROCKS LOUNGE                 ,"16919 AUDREY STREET
+OMAHA, NE
+(41.18955401873899, -96.17872034329281)"
+C     ,Beer/liquor on/off sale,OKINAWA ASIAN & SUSHI               ,"12240 L STREET
+OMAHA, NE
+(41.212630622010806, -96.10487701146701)"
+C     ,Beer/liquor on/off sale,REDEYE TAVERN                       ,"17520 WRIGHT STREET
+OMAHA, NE
+(41.23255060495984, -96.19062736696077)"
+C     ,Beer/liquor on/off sale,"SYDNEY, THE                         ","5918 MAPLE STREET
+OMAHA, NE
+(41.28499906570863, -96.00437777469273)"
+C     ,Beer/liquor on/off sale,TOUCH OF CLASS LOUNGE               ,"11220 FORT ST
+OMAHA, NE
+(41.30676352227647, -96.08649021460599)"
+I     ,Beer/liquor on sale,BLUE PLANET NATURAL GRILL           ,"6307 CENTER STREET
+OMAHA, NE
+(41.2378373074159, -96.01062473534608)"
+I     ,Beer/liquor on sale,DHABA INDIAN CUISINE                ,"2012 117TH STREET
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,SMASHBURGER                         ,"12330 K PLAZA
+OMAHA, NE
+(41.213447053140285, -96.10658886300405)"
+CK    ,Catering + liquor on/off sale,7 MONKEYS                           ,"15805 MAPLE ROAD
+OMAHA, NE
+(41.292003920858065, -96.1609901876007)"
+CK    ,Catering + liquor on/off sale,ROUTE 66 PUB AND GRUB               ,"5413 72ND ST
+OMAHA, NE
+(41.20368923699503, -96.02365787189042)"
+C     ,Beer/liquor on/off sale,"LOOSE MOOSE BAR & GRILL, THE        ","4915 120TH STREET
+OMAHA, NE
+(41.209940269334474, -96.10055064332747)"
+CK    ,Catering + liquor on/off sale,PITCH PIZZERIA                      ,"5021 UNDERWOOD AVE
+OMAHA, NE
+(41.26508807597992, -95.99199411034925)"
+C     ,Beer/liquor on/off sale,"COLOSSEUM ULTRA LOUNGE, THE         ","17525 GOLD PLAZA
+OMAHA, NE
+(41.23525756426801, -96.18938630256031)"
+C     ,Beer/liquor on/off sale,HIRO88                              ,"1308 JACKSON
+OMAHA, NE
+(41.25445895305239, -95.93341367928444)"
+C     ,Beer/liquor on/off sale,PIZZA GOURMET                       ,"15475 RUGGLES STREET
+OMAHA, NE
+(41.29536751251041, -96.15533844294211)"
+C     ,Beer/liquor on/off sale,JIMI D'S                            ,"6303 CENTER STREET
+OMAHA, NE
+(41.23789257781385, -96.01002551703675)"
+C     ,Beer/liquor on/off sale,RUM RUNNER                          ,"7007 181ST STREET
+OMAHA, NE
+(41.189878638128334, -96.19888022185877)"
+I     ,Beer/liquor on sale,AKSARBEN CINEMA                     ,"2110 67 STREET
+OMAHA, NE
+(41.23984199045801, -96.01470360888695)"
+I     ,Beer/liquor on sale,TANNER'S BAR & GRILL                ,"15505 RUGGLES STREET
+OMAHA, NE
+(41.29635750293869, -96.15762224848544)"
+C     ,Beer/liquor on/off sale,RYAN'S BISTRO                       ,"17607 GOLD PLAZA
+OMAHA, NE
+(41.23508669308245, -96.19071729916368)"
+C     ,Beer/liquor on/off sale,VEGALOU ULTRA BAR                   ,"15475 RUGGLES STREET
+OMAHA, NE
+(41.29536751251041, -96.15533844294211)"
+CK    ,Catering + liquor on/off sale,MOJO SMOKEHOUSE & ALES              ,"2110 67TH ST
+OMAHA, NE
+(41.23984199045801, -96.01470360888695)"
+C     ,Beer/liquor on/off sale,TWISTED CORK BISTRO                 ,"10730 PACIFIC ST
+OMAHA, NE
+(41.24881034724956, -96.08112591667322)"
+C     ,Beer/liquor on/off sale,WINNERS LOUNGE                      ,"5413 72 STREET
+OMAHA, NE
+(41.20368923699503, -96.02365787189042)"
+I     ,Beer/liquor on sale,PUDGY'S PIZZERIA                    ,"16919 AUDREY STREET
+OMAHA, NE
+(41.18955401873899, -96.17872034329281)"
+CK    ,Catering + liquor on/off sale,WOHLNER'S MIDTOWN GROCERY & DELI    ,"3253 DODGE STREET
+OMAHA, NE
+(41.25971350701691, -95.9609855781375)"
+I     ,Beer/liquor on sale,CHIPOTLE MEXICAN GRILL              ,"3605 147 STREET
+OMAHA, NE
+(41.291448793751314, -96.14354142250743)"
+I     ,Beer/liquor on sale,DAVE & BUSTER'S                     ,"2502 133 PLAZA
+OMAHA, NE
+(41.23580355651541, -96.12163144100623)"
+C     ,Beer/liquor on/off sale,"BLUE MARTINI, THE                   ","10730 PACIFIC STREET
+OMAHA, NE
+(41.24881034724956, -96.08112591667322)"
+C     ,Beer/liquor on/off sale,LEGACY GYROS                        ,"16920 WRIGHT PLAZA
+OMAHA, NE
+(41.23303544714501, -96.17831936612394)"
+CK    ,Catering + liquor on/off sale,CRANE COFFEE CAFE                   ,"1403 FARNAM ST
+OMAHA, NE
+(41.257542764154095, -95.93522890385987)"
+I     ,Beer/liquor on sale,KOBE OF OMAHA                       ,"120 REGENCY PKWY
+OMAHA, NE
+(41.26004155118349, -96.0696409762948)"
+C     ,Beer/liquor on/off sale,PARLIAMENT PUB                      ,"16939 WRIGHT PLAZA
+OMAHA, NE
+(41.23298589018061, -96.17848790341061)"
+I     ,Beer/liquor on sale,LANSKY'S                            ,"4601 50TH
+OMAHA, NE
+(41.260689999643944, -95.94059000012828)"
+I     ,Beer/liquor on sale,RED LOUNGE                          ,"14450 EAGLE RUN DR
+OMAHA, NE
+(41.28749018772976, -96.14067902145342)"
+I     ,Beer/liquor on sale,FUNNY BONE                          ,"17305 DAVENPORT ST
+OMAHA, NE
+(41.2609108695486, -96.1849613585206)"
+C     ,Beer/liquor on/off sale,REPORT IN PUB                       ,"12100 CENTER ROAD
+OMAHA, NE
+(41.23414909938711, -96.10197548382024)"
+C     ,Beer/liquor on/off sale,WORLD OF WINE                       ,"14450 EAGLE RUN DR
+OMAHA, NE
+(41.28749018772976, -96.14067902145342)"
+I     ,Beer/liquor on sale,BLUE SUSHI SAKE GRILL               ,"14450 EAGLE RUN DR
+OMAHA, NE
+(41.28749018772976, -96.14067902145342)"
+C     ,Beer/liquor on/off sale,"E.R.BAR, THE                        ","2236 NO 91ST PLAZA
+OMAHA, NE
+(41.278474448588334, -96.05380889145636)"
+CK    ,Catering + liquor on/off sale,"GREY PLUME, THE                     ","220 31ST AVE
+OMAHA, NE
+(41.26054410804767, -95.95920010398864)"
+CK    ,Catering + liquor on/off sale,LOFT 610 URBAN RESTAURANT & LOUNGE  ,"220 31 AVENUE
+OMAHA, NE
+(41.26054410804767, -95.95920010398864)"
+IK    ,Catering + liquor on sale,CRAVE                               ,"200 31 AVENUE
+OMAHA, NE
+(41.26042099151474, -95.95920237341782)"
+IK    ,Catering + liquor on sale,CANTINA LAREDO #133                 ,"120 31 AVENUE
+OMAHA, NE
+(41.25992852515561, -95.95921145113873)"
+I     ,Beer/liquor on sale,RECEPTION CONNECTION                ,"12100 CENTER RD
+OMAHA, NE
+(41.23414909938711, -96.10197548382024)"
+C     ,Beer/liquor on/off sale,INGREDIENT RESTUARANT               ,"3201 FARNAM STREET
+OMAHA, NE
+(41.2576588125591, -95.96042790712082)"
+C     ,Beer/liquor on/off sale,BLANC BURGERS & BOTTLES             ,"3157 FARNAM STREET
+OMAHA, NE
+(41.2576588125591, -95.95935825349919)"
+C     ,Beer/liquor on/off sale,WINE 121                            ,"12100 CENTER ROAD
+OMAHA, NE
+(41.23414909938711, -96.10197548382024)"
+C     ,Beer/liquor on/off sale,3-5-7 CLUB                          ,"2414 AMES AVENUE
+OMAHA, NE
+(41.29968585790584, -95.9471391393802)"
+C     ,Beer/liquor on/off sale,"WATERFALL LOUNGE, THE               ","10208 168TH AVE
+OMAHA, NE
+(41.15742428959302, -96.17741496112257)"
+DK    ,Catering + liquor off sale,CATERING CREATIONS                  ,"7515 PACIFIC STREET
+OMAHA, NE
+(41.248755524469004, -96.0295257743635)"
+I     ,Beer/liquor on sale,QDOBA MEXICAN GRILL                 ,"1110 71 ST
+OMAHA, NE
+(41.24857884628649, -96.02241914444785)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"2085 120 STREET
+OMAHA, NE
+(41.27926368671871, -96.1004556651929)"
+A     ,Beer on sale,PEPPER JAX GRILL                    ,"8406 PARK DRIVE
+OMAHA, NE
+(41.200813530545815, -96.04333640500204)"
+C     ,Beer/liquor on/off sale,VIP LOUNGE                          ,"9001 ARBOR STREET
+OMAHA, NE
+(41.23665151341345, -96.0531300219011)"
+C     ,Beer/liquor on/off sale,BAMBINO'S                           ,"2236 NO 91ST PLAZA
+OMAHA, NE
+(41.278474448588334, -96.05380889145636)"
+DK    ,Catering + liquor off sale,SUPER TARGET                        ,"4001 132 STREET
+OMAHA, NE
+(41.2213565461673, -96.11936496310008)"
+C     ,Beer/liquor on/off sale,BRAZENHEAD IRISH PUB                ,"319 NO 78TH ST
+OMAHA, NE
+(41.261813082457124, -96.0366415910175)"
+I     ,Beer/liquor on sale,WINGSTOP                            ,"1110 71ST ST
+OMAHA, NE
+(41.24857884628649, -96.02241914444785)"
